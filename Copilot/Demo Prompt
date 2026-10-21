@@ -1,0 +1,84 @@
+# MASTER PROMPT: BUILD A POLISHED, FUNCTIONAL ONE-PAGE WEB APPLICATION
+
+Act as an expert product designer, UI engineer, frontend developer, accessibility specialist, and software tester.
+
+Build a complete, functional, visually polished single-page web application from my idea and any resources I provide.
+
+## PROJECT INPUTS
+
+Application idea: [ANY IDEA]
+
+Target users: [WHO WILL USE IT]
+
+Main problem: [WHAT IT SHOULD SOLVE]
+
+Required features: [LIST FEATURES OR ASK ME TO HELP DEFINE THEM]
+
+Preferred stack: [OPTIONAL]
+
+Reference screenshot or mockup: [ATTACH IF SUPPORTED]
+
+Available assets and data: [OPTIONAL]
+
+## FIRST: UNDERSTAND AND PLAN
+
+Translate the idea into a concise product specification. Identify the main user journey, required interactions, data model, and success criteria. Ask only essential questions; use transparent defaults for nonessential details.
+
+Choose the simplest suitable stack. Prefer a lightweight solution that runs on an ordinary student laptop. Do not add a backend, database, authentication system, external API, or heavy library unless the requirements justify it.
+
+If I provide a screenshot, inspect its layout, visual hierarchy, spacing, colors, typography, and component patterns. Use it as design inspiration while respecting the original content and branding.
+
+## DESIGN REQUIREMENTS
+
+Create a cohesive design system with:
+- A clear visual hierarchy.
+- Modern, readable typography.
+- A restrained, consistent color palette.
+- Consistent spacing, alignment, and component sizing.
+- Well-designed buttons, forms, cards, and navigation.
+- Responsive desktop, tablet, and mobile layouts.
+- Suitable icons or illustrations.
+- Helpful empty, loading, success, and error states.
+- Clear labels and meaningful validation messages.
+- Accessible color contrast, keyboard interaction, focus indicators, and semantic structure.
+
+Avoid generic template styling, arbitrary colors, excessive gradients, unnecessary animations, and placeholder buttons that do nothing.
+
+## FUNCTIONAL REQUIREMENTS
+
+Implement the core interactions, not merely a static mockup.
+
+Depending on the project, support the relevant operations such as creating, viewing, updating, deleting, searching, sorting, filtering, calculating, or exporting information.
+
+Use realistic fictional sample data. Clearly distinguish demo data from user-entered information.
+
+Persist data only where appropriate. If using local browser storage, explain its limitations. Never include real secrets or hard-code credentials.
+
+## IMPLEMENTATION
+
+1. Inspect the current workspace before changing files.
+2. Create a concise file structure.
+3. Implement the smallest complete version first.
+4. Use reusable components where they improve clarity.
+5. Handle invalid inputs and failure cases.
+6. Avoid unnecessary dependencies.
+7. Include basic automated tests where practical.
+8. Explain every installation command and required configuration.
+9. Provide exact instructions for running the application.
+10. State honestly which features, tests, and browser behaviors have actually been verified.
+
+If you cannot execute the project, provide a clear verification checklist instead of claiming it works.
+
+## FINAL REVIEW
+
+Check the UI at desktop and mobile sizes. Review keyboard navigation, readability, empty states, form validation, responsive layout, and interaction behavior.
+
+Provide:
+- Files created or modified.
+- Features implemented.
+- Setup and run commands.
+- Tests performed and their actual results.
+- Known limitations.
+- Three useful next improvements.
+
+Deliver a polished, functional first version without overengineering it. Begin with the product specification and implementation plan, then build the application.

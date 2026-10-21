@@ -1,0 +1,49 @@
+Prompt 1 — Beginner explanation
+
+Teach me neural networks and backpropagation as if I have never studied machine learning.
+
+First explain the idea without technical vocabulary. Then gradually introduce neurons, weights, biases, activation functions, loss, gradients, and backpropagation.
+
+For every new term:
+- Give a simple definition.
+- Give one everyday example.
+- Explain how it connects to the previous term.
+
+Use a tiny example, such as predicting whether a student will pass based on two fictional study-related inputs. Explain why the example is simplified.
+
+Finish with a short glossary and three questions to test my understanding.
+
+Do not describe an analogy as the actual mathematical mechanism. Identify where the simple explanation leaves out important details.
+
+Prompt 2 — Analogy and its limits
+
+Explain backpropagation using an everyday analogy, such as adjusting a recipe after tasting the result.
+
+Map each part of the analogy to the real process:
+- Model prediction
+- Target answer
+- Loss or error measure
+- Gradient
+- Weight update
+
+Then identify at least three places where the analogy breaks down. Explain the real mathematical idea behind each limitation without skipping important distinctions.
+
+Use one tiny numerical illustration if it can be calculated reliably. Show the assumptions and arithmetic, and tell me which parts are illustrative rather than a full neural-network training calculation.
+
+Prompt 3 — Steps and worked example
+
+Walk through one training step of a very small neural network.
+
+Use clearly stated toy inputs, weights, biases, an activation function, and a target value.
+
+Show:
+1. Forward pass.
+2. Prediction.
+3. Loss calculation.
+4. How the gradient indicates the direction of change.
+5. A simplified weight update.
+6. How to check whether the new prediction improved.
+
+Show every equation and calculation. State the learning rate and other assumptions.
+
+If a numerical value cannot be derived confidently, leave it symbolic rather than inventing it. Explain that a complete backpropagation calculation may involve chain-rule derivatives for multiple parameters.

@@ -1,0 +1,122 @@
+Prompt 1 — Personal tutor
+Use when: a textbook or lecture slide feels too difficult to understand.
+I have uploaded a study PDF about machine learning. Act as a patient tutor for a complete beginner.
+
+Teach me the material in the order it appears in the document.
+
+For each important concept:
+1. Explain it using simple, everyday language.
+2. Give one relatable real-world analogy.
+3. Work through a small example step by step.
+4. Introduce the correct technical terms after the simple explanation.
+5. Explain any prerequisite concepts I need first.
+6. Tell me what the analogy cannot explain accurately.
+7. Ask me one short question before moving to the next major concept.
+
+Use the uploaded PDF as the primary source. Refer to its headings, page numbers, or slide numbers when available. Do not invent quotations, page references, formulas, or examples and attribute them to the PDF.
+
+If you add background knowledge that is not explicitly present in the document, label it as additional explanation.
+
+Begin with the first major concept and wait for my response before continuing.
+
+Prompt 2 — Exam preparation assistant
+Use when: preparing for a test or deciding what to revise first.
+
+Act as my exam preparation assistant. Use the uploaded PDF as the source for this study session.
+
+Create:
+1. A list of the major topics and subtopics.
+2. Important definitions, formulas, assumptions, and examples.
+3. Diagrams or processes I should understand, with the relevant source page or heading where available.
+4. Short-answer, long-answer, application-based, and numerical question formats where appropriate.
+5. A revision checklist ordered by prerequisite dependencies.
+6. A realistic revision plan that I can adapt to my available time.
+
+For every important point, distinguish:
+- Explicitly stated in the PDF.
+- Derived from an example or explanation in the PDF.
+- Your suggested revision priority, which is an inference and not a prediction of the actual examination.
+
+Do not claim to know the questions my examiner will ask. Do not invent a marking scheme or claim that a topic is guaranteed to appear.
+
+Finish by listing the five items I should verify against my lecturer's syllabus or class notes.
+
+Prompt 3 — Active recall and quiz generator
+Use when: testing whether you actually understand the material.
+
+Act as an adaptive quiz tutor using the uploaded PDF.
+
+Test me on the concepts, definitions, examples, and methods contained in the document.
+
+Rules:
+1. Ask exactly one question at a time.
+2. Start with a simple understanding question.
+3. Gradually increase the difficulty.
+4. Wait for my answer before revealing the correct answer.
+5. Evaluate my answer as correct, partially correct, or incorrect.
+6. Explain missing or incorrect reasoning using the source material.
+7. Give a short hint before giving the full explanation when I struggle.
+8. Track the concepts I get wrong within this conversation.
+9. After several questions, revisit weak areas using a differently worded question.
+10. Do not invent claims about my long-term progress or results from previous sessions that are not available here.
+
+Use source references where possible. If the document does not contain enough information to answer a question, say so and label any additional knowledge separately.
+
+Start with one beginner-level question. Do not show the answer yet.
+
+Prompt 4 — Notes and flashcards generator
+Use when: turning a long lecture into material that is easier to revise.
+
+Convert the uploaded PDF into a high-quality revision pack.
+
+Create the following sections:
+
+A. Structured notes
+- Follow the source's topic order.
+- Explain the main ideas in concise, beginner-friendly language.
+- Preserve important technical terminology, conditions, formulas, and examples.
+
+B. Key terms
+- Provide each term, a precise definition, and a simple example.
+
+C. Comparison tables
+- Compare related concepts only when the source supports the comparison.
+
+D. Question-and-answer flashcards
+- Put one question on the front and its answer on the back.
+- Cover definitions, distinctions, processes, and applications.
+- Avoid vague questions and duplicate cards.
+
+E. Unclear material
+- Identify unreadable diagrams, missing context, ambiguous statements, or content that needs checking.
+
+Cite page numbers, slide numbers, or headings where available. Do not invent missing details to make the notes look complete.
+
+Finish with a short checklist of concepts I should be able to explain without looking at the notes.
+
+Prompt 5 — Study plan and weakness analyzer
+Use when: planning revision around an exam date and limited time.
+
+Act as my study planner and learning coach. Use the uploaded PDF as the material I need to study.
+
+Before making a plan, ask me:
+1. What is my exam date?
+2. How much time can I study each day?
+3. How familiar am I with this topic?
+4. Which concepts do I find difficult?
+5. Are there other subjects competing for my study time?
+
+After I answer:
+- Divide the PDF into manageable learning blocks.
+- Put prerequisite concepts before dependent concepts.
+- Schedule practice, active recall, and spaced revision.
+- Include short breaks and realistic daily workloads.
+- Give each session a clear learning objective.
+- Include a small test at the end of each major block.
+- Adapt future sessions based on my answers and mistakes.
+
+Do not assume that I have unlimited study time. Do not promise a particular examination result.
+
+Use the PDF's actual topics. Identify any recommended activity that requires material outside the PDF.
+
+Start by asking the five questions, then wait for my answers.

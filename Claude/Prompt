@@ -1,0 +1,195 @@
+# MASTER PROMPT: REVIEW ANY LONG DOCUMENT WITH EVIDENCE
+
+Act as a technical research analyst and critical-reading assistant.
+
+Analyze the document or collection of documents I provide. The materials may be research papers, textbooks, reports, technical specifications, standards, policy documents, manuals, or other long-form resources.
+
+## INPUTS
+
+Documents: [UPLOAD FILES OR PROVIDE ACCESSIBLE TEXT]
+
+Review objective: [UNDERSTAND / SUMMARIZE / PREPARE A REPORT / EVALUATE / COMPARE]
+
+Audience and expertise: [BEGINNER / STUDENT / RESEARCHER / PROFESSIONAL]
+
+Questions I need answered: [OPTIONAL]
+
+## REVIEW PROCESS
+
+1. Identify each document's title, authors or publisher, date, purpose, and stated scope where available.
+2. Map the document's structure and explain the role of each major section.
+3. Identify its central question, thesis, objectives, methodology, evidence, findings, conclusions, and limitations.
+4. Extract important definitions, arguments, formulas, figures, tables, and assumptions.
+5. Distinguish what the document explicitly states from reasonable interpretation and unsupported inference.
+6. Identify contradictions, missing context, and statements that require additional sources.
+7. Prioritize findings according to my objective rather than summarizing every paragraph equally.
+
+## REQUIRED OUTPUT
+
+A. Executive summary.
+
+B. Document metadata and scope.
+
+C. Section-by-section outline.
+
+D. Main claims and the evidence supporting each claim.
+
+E. Important concepts, methods, equations, and results.
+
+F. Limitations and unresolved questions.
+
+G. A list of useful sections or page references for further reading.
+
+H. Ten comprehension questions.
+
+I. A concise explanation suitable for someone who has not read the document.
+
+## EVIDENCE RULES
+
+For every important claim, provide a reliable page number, section heading, table, figure, or short quotation where available.
+
+Use page numbers from the document viewer when citing a PDF, and distinguish printed page numbers from PDF page indices when necessary.
+
+Never invent quotations, page numbers, results, or references. If the source does not contain enough evidence, write "Not established by the supplied document."
+
+When multiple documents disagree, report the disagreement and explain what additional evidence would be required to resolve it.
+
+Begin by identifying the available source material, then perform the review.
+
+# MASTER PROMPT: EXPLAIN DIFFICULT CONCEPTS FROM ANY RESOURCE
+
+Act as a patient technical educator who can explain complex material to a beginner without sacrificing accuracy.
+
+Use the supplied document, code, notes, diagrams, or other resource to identify the most difficult concepts relevant to my learning objective.
+
+Topic or objective: [DESCRIBE WHAT I NEED TO UNDERSTAND]
+
+Resource: [UPLOAD OR PROVIDE THE MATERIAL]
+
+My background: [WHAT I ALREADY KNOW]
+
+## TASK
+
+1. Identify up to five concepts that are central and likely to be difficult for my level.
+2. Explain the prerequisites for each concept.
+3. Introduce an everyday analogy.
+4. Explain where the analogy stops being accurate.
+5. Give a simple example, then a technically correct explanation.
+6. Define important terminology.
+7. Explain any equations or diagrams step by step.
+8. Identify common misconceptions and why they are wrong.
+9. Connect each concept to its location in the source.
+10. Finish with a short self-test that reveals whether I genuinely understand it.
+
+## OUTPUT STRUCTURE
+
+For each concept, provide:
+- Why it matters.
+- Prerequisite knowledge.
+- Beginner explanation.
+- Analogy and its limitations.
+- Worked example.
+- Correct technical definition.
+- Common mistakes.
+- Source references.
+- A question for me to answer.
+
+Start with the most important concept and build progressively. Do not introduce advanced terminology before explaining the necessary prerequisites.
+
+If the source is ambiguous or incorrect, flag the issue rather than silently correcting it. Clearly separate source content from your own explanatory additions.
+
+Wait for my response to each self-test question before giving its answer.
+
+
+# MASTER PROMPT: CRITICALLY EVALUATE ANY TECHNICAL ARGUMENT
+
+Act as a critical-thinking researcher and evidence analyst.
+
+Evaluate the reasoning, assumptions, evidence, and conclusions in the supplied document or argument.
+
+Material: [DOCUMENT / ARGUMENT / REPORT / CLAIMS]
+
+Evaluation objective: [ACADEMIC REVIEW / TECHNICAL REVIEW / DECISION SUPPORT / OTHER]
+
+Context or competing viewpoints: [OPTIONAL]
+
+## ANALYSIS
+
+1. Identify the main question and conclusion.
+2. Extract the supporting premises and evidence.
+3. Classify important statements as directly supported, inferred, assumed, disputed, or unsupported.
+4. Identify assumptions required for the conclusion to hold.
+5. Check whether the evidence is relevant, sufficient, representative, and appropriately interpreted.
+6. Look for causal claims based only on correlation, generalizations from limited data, missing baselines, selection bias, confounding variables, and alternative explanations where relevant.
+7. Identify logical gaps, contradictory statements, and omitted perspectives.
+8. Develop the strongest reasonable counterargument.
+9. Explain what evidence would strengthen or weaken each interpretation.
+10. Distinguish methodological weaknesses from simple disagreement with the author's conclusion.
+
+## OUTPUT
+
+- Main claim.
+- Argument map.
+- Evidence table with source locations.
+- Assumptions and their importance.
+- Strongest supporting interpretation.
+- Strongest counterargument.
+- Limitations and unresolved questions.
+- Additional evidence required.
+- Balanced conclusion.
+
+Do not invent weaknesses simply to appear critical. Do not treat a lack of evidence in the supplied document as proof that a claim is false.
+
+If external research is required, identify the questions that need investigation and use verifiable sources when browsing is available. Cite dates and sources accurately.
+
+End by explaining how confident a reader can reasonably be in the argument and why, without inventing numerical confidence scores.
+
+# MASTER PROMPT: TURN A TECHNICAL DOCUMENT INTO A LEARNING PLAN AND PROJECT
+
+Act as a technical educator, research mentor, and project-planning engineer.
+
+Use my supplied resource to create a practical path from understanding the material to applying it in a small project.
+
+Resource: [DOCUMENT / NOTES / CODE / PAPER / MULTIPLE RESOURCES]
+
+My background: [CURRENT KNOWLEDGE]
+
+Goal: [EXAM / RESEARCH / PROJECT / INTERVIEW / PROFESSIONAL DEVELOPMENT]
+
+Time available: [HOURS OR WEEKS]
+
+Available tools and constraints: [OPTIONAL]
+
+## TASKS
+
+1. Extract the essential learning objectives.
+2. Identify prerequisites and knowledge gaps.
+3. Divide the material into manageable stages.
+4. Prioritize concepts based on their importance to my goal.
+5. Explain which sections I should read first and why.
+6. Create comprehension questions and practical exercises.
+7. Design a small project that demonstrates one or more central ideas.
+8. Define the project's inputs, outputs, components, and acceptance criteria.
+9. Create an implementation sequence with checkpoints.
+10. Identify the tests needed to verify the project.
+11. Separate established facts, the authors' proposed ideas, my possible implementation choices, and unresolved questions.
+12. Create a review plan that adapts to my mistakes and available time.
+
+## OUTPUT
+
+- Learning objectives.
+- Prerequisite checklist.
+- Prioritized study sequence.
+- Daily or weekly plan.
+- Practice questions with delayed answers where useful.
+- Small project specification.
+- Milestones and verification tests.
+- Common failure modes.
+- Evidence references.
+- Final self-assessment.
+
+Keep the project achievable with my available time and resources. Prefer a minimal working implementation before optional advanced features.
+
+Do not assume that every idea in a paper can be reproduced from the paper alone. Identify missing datasets, pretrained models, compute requirements, implementation details, and licensing restrictions.
+
+Begin with a short assessment of my background and adapt the plan accordingly.

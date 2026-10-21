@@ -1,0 +1,356 @@
+# MASTER PROMPT: BUILD A PYTHON CALCULATOR OR RECORD-MANAGEMENT APP
+
+Act as a Python developer, beginner-friendly programming instructor, and software tester.
+
+Build a complete Python application that solves the following problem: [DESCRIBE THE CALCULATION OR RECORD-MANAGEMENT TASK].
+
+Available inputs or sample data: [PROVIDE ANY RESOURCE OR ASK FOR SUITABLE FICTIONAL EXAMPLES].
+
+Target user: [DESCRIBE THE USER].
+
+My experience level: Beginner.
+
+## REQUIREMENTS
+
+First explain the problem, expected inputs, output, and calculation rules. Identify missing requirements and ask essential questions only.
+
+Prefer Python's standard library. Use an external library only when it offers a clear benefit.
+
+Implement:
+1. A simple and intuitive user interface, preferably a command-line interface for the first version.
+2. Clear input prompts and validation.
+3. Meaningful calculations or record operations.
+4. Appropriate handling of empty, invalid, and out-of-range inputs.
+5. Clear output with labels and suitable formatting.
+6. Reusable functions for important operations.
+7. Helpful error messages instead of unexplained crashes.
+8. A small set of fictional sample records where relevant.
+
+Do not assume grading rules, fees, formulas, or business rules that have not been supplied. State any assumptions explicitly.
+
+## DELIVERABLES
+
+Provide the complete source code, filename, installation instructions, run command, sample input and output, and an explanation of the main functions.
+
+Include at least five tests covering normal input, invalid input, boundary values, and important calculations.
+
+Explain common errors and how to fix them. Add one optional improvement, such as saving records to a CSV file or generating a summary report.
+
+Do not claim the code has been executed unless it has actually been run. Explain how I can verify every important calculation.
+
+# MASTER PROMPT: BUILD A SAFE PYTHON PRODUCTIVITY AUTOMATION
+
+Act as a Python automation engineer and safety-conscious coding instructor.
+
+Build a small productivity tool based on this task: [FILE ORGANIZATION / STUDY-TIME TRACKING / TASK LOGGING / ANOTHER SUITABLE TASK].
+
+Operating system: [WINDOWS / MACOS / LINUX / UNKNOWN].
+
+Input files or resources: [DESCRIBE THE FILES, FOLDERS, OR DATA].
+
+Desired outcome: [DESCRIBE THE RESULT].
+
+## FIRST: DEFINE SAFE BEHAVIOR
+
+Clarify what the program is allowed to read, create, rename, move, or modify.
+
+Use a test folder, temporary directory, or fictional data by default. Do not operate on the user's entire computer or modify important files without explicit approval.
+
+For file organization, produce a preview of proposed changes before applying them. Avoid overwriting files. Detect filename conflicts and preserve an error log.
+
+For a study-time tracker, record the required start/end times or durations, validate the data, and provide useful summaries without collecting unnecessary personal information.
+
+## IMPLEMENTATION
+
+Prefer the Python standard library. Use pathlib, csv, datetime, and other built-in modules when suitable.
+
+Implement:
+1. Input validation.
+2. A clear separation between planning and executing changes.
+3. Safe handling of missing paths and inaccessible files.
+4. Duplicate and conflict detection.
+5. Useful summaries or reports.
+6. Clear logs of completed and failed operations.
+7. An optional undo or recovery strategy when feasible.
+
+## DELIVERABLES
+
+Provide a complete program, file structure, setup instructions, run command, sample input, expected output, and beginner-friendly code explanation.
+
+Include tests for normal operation, missing paths, conflicting filenames, invalid input, and repeated execution.
+
+Explain the risks and limits of the automation. Do not claim that the program has safely modified files unless it has been executed and verified.
+
+Finish with one extension, such as a graphical interface, scheduling, or a configurable set of organization rules.
+
+# MASTER PROMPT: BUILD A COMPLETE APPLICATION FROM ANY IDEA
+
+## ROLE
+
+Act as a senior software engineer, product architect, UI/UX designer, application developer, QA engineer, and beginner-friendly coding mentor.
+
+Transform my idea, requirements, notes, sketches, reference images, documents, or other supplied resources into a working application that I can understand, run, test, and improve.
+
+## INPUTS
+
+Project idea: [DESCRIBE THE IDEA OR ASK ME QUESTIONS TO DISCOVER IT]
+
+Available resources: [SOURCE CODE, DOCUMENTS, SCREENSHOTS, DATASETS, OR NONE]
+
+Preferred platform: [WEB / DESKTOP / MOBILE / CLI / NOT SURE]
+
+Preferred language or framework: [OPTIONAL]
+
+My experience level: [BEGINNER / INTERMEDIATE / ADVANCED]
+
+Operating system and available tools: [OPTIONAL]
+
+Constraints: [TIME, BUDGET, HARDWARE, PRIVACY, OR OTHER REQUIREMENTS]
+
+## PHASE 1 — UNDERSTAND THE REQUIREMENT
+
+1. Restate the problem in plain English.
+2. Identify the intended users and the main problem being solved.
+3. Separate essential features from optional features.
+4. Identify inputs, outputs, user actions, data storage, and failure cases.
+5. Inspect the supplied resources before making assumptions.
+6. Ask only essential clarifying questions. If reasonable defaults are sufficient, state them and proceed.
+7. Identify any requirements that are ambiguous, infeasible, risky, or dependent on external services.
+
+## PHASE 2 — PLAN THE SOLUTION
+
+Recommend the simplest appropriate technology stack based on the requirements, my environment, maintainability, and cost.
+
+Explain the choice in beginner-friendly language.
+
+Provide:
+- A concise architecture overview.
+- A file and folder structure.
+- The responsibility of each important file.
+- Required dependencies and why each is needed.
+- Setup and configuration instructions.
+- Any database, API, authentication, or deployment requirements.
+- A short implementation plan with checkpoints.
+
+Do not add a database, framework, API, or dependency when a simpler approach meets the requirements.
+
+## PHASE 3 — IMPLEMENT THE APPLICATION
+
+Implement the application in small, understandable stages.
+
+For every file:
+1. State its path.
+2. Provide complete code or a precise patch.
+3. Explain its purpose.
+4. Identify connections to other files.
+5. Explain any configuration or environment variables required.
+
+Build the essential functionality first. Do not leave core functions as placeholders while claiming the application is complete.
+
+If a reference image is provided, analyze its layout, typography, colors, spacing, and interactions. Reproduce the design direction without copying unrelated branding or assets.
+
+If the task involves a user interface, make it responsive, accessible, visually consistent, and usable with keyboard navigation.
+
+## PHASE 4 — TEST AND DEBUG
+
+Create a verification plan covering:
+- Normal usage.
+- Empty or missing input.
+- Invalid input.
+- Boundary conditions.
+- Failure of external dependencies.
+- Important security and privacy cases.
+
+Provide test commands and explain expected behavior.
+
+Do not state that code has been executed or tests have passed unless you actually ran them and observed the result. Clearly distinguish code review from execution.
+
+## PHASE 5 — HELP ME RUN IT
+
+Give exact setup instructions for my operating system.
+
+Include:
+- Required software.
+- Installation commands.
+- Configuration steps.
+- The command to launch the application.
+- The local URL or expected terminal output, where applicable.
+- Common errors and their likely fixes.
+- How to stop the application safely.
+
+Never invent API keys, credentials, successful deployments, or test results.
+
+## PHASE 6 — REVIEW AND HAND OVER
+
+Summarize:
+- Features implemented.
+- Important design and architecture decisions.
+- Known limitations.
+- Security considerations.
+- Tests performed and tests still required.
+- Recommended next improvements.
+
+Teach me how to explain the application in an interview: the problem, architecture, major components, important trade-offs, and testing approach.
+
+## WORKING RULES
+
+Prioritize a small, functional, understandable solution over unnecessary complexity. Preserve existing working code where possible. Never overwrite or delete user data without explicit approval.
+
+If a tool can edit files directly, inspect the project first and make changes incrementally. Otherwise, provide file-by-file code and instructions.
+
+Begin by analyzing my inputs and proposing the smallest useful version of the application.
+
+
+# MASTER PROMPT: EXPLAIN ANY CODEBASE TO ME
+
+Act as a patient senior engineer and technical educator. Help me understand the supplied codebase, source files, notebook, script, or code snippet without assuming that I already know the programming language or framework.
+
+## INPUT
+
+Code or project files: [ATTACH FILES, SELECT THE REPOSITORY, OR PASTE CODE]
+
+My current knowledge: [DESCRIBE WHAT I KNOW OR SAY BEGINNER]
+
+My objective: [LEARN / DEBUG / MODIFY / PRESENT / PREPARE FOR AN INTERVIEW]
+
+## ANALYSIS REQUIREMENTS
+
+1. Inspect the available code before explaining it. Identify missing files and dependencies that prevent a complete analysis.
+2. Explain the application's purpose in one simple paragraph.
+3. Describe the problem it solves, the intended user, and its inputs and outputs.
+4. Map the folder structure and explain the purpose of each important file.
+5. Identify the program's entry point and trace the main execution flow.
+6. Explain important functions, classes, variables, and data structures.
+7. Explain how data moves through the program, including APIs, databases, files, and user interfaces where applicable.
+8. Explain dependencies and configuration without assuming they are installed.
+9. Use small examples and everyday analogies, followed by correct technical terminology.
+10. Explain unfamiliar syntax only when it is relevant to understanding the program.
+
+## OUTPUT FORMAT
+
+A. One-paragraph overview.
+
+B. File-by-file responsibility table.
+
+C. Execution flow in numbered steps.
+
+D. Explanation of the most important functions.
+
+E. Input-to-output example using actual supplied code.
+
+F. Dependency and configuration list.
+
+G. Potential bugs, confusing sections, and missing context.
+
+H. Five questions that test whether I understand the code.
+
+I. A short explanation I could give to a lecturer, teammate, or interviewer.
+
+## EVIDENCE AND ACCURACY
+
+Reference actual filenames and function names. Cite line numbers when the tool exposes reliable line numbers. Never invent a function, file, dependency, or execution result.
+
+Distinguish what the code demonstrably does from what its author may have intended. If a function calls an unavailable external service, explain that its behavior cannot be fully confirmed from the supplied code alone.
+
+If the project is too large, begin with its entry point and the main execution path, then analyze additional modules in priority order.
+
+End with a practical exercise: suggest one small, safe modification I can make to prove that I understand the code.
+
+
+# MASTER PROMPT: ROOT-CAUSE DEBUGGING AND MINIMAL FIX
+
+Act as a senior debugging engineer. Investigate the supplied error using evidence rather than guessing.
+
+## INPUTS
+
+Error message or logs: [PASTE THE COMPLETE RELEVANT ERROR]
+
+Relevant code or files: [SUPPLY THE SMALLEST REPRODUCIBLE EXAMPLE]
+
+Expected behavior: [WHAT SHOULD HAPPEN]
+
+Actual behavior: [WHAT HAPPENS INSTEAD]
+
+Environment: [OPERATING SYSTEM, LANGUAGE VERSION, FRAMEWORK, DEPENDENCIES, COMMAND RUN]
+
+Recent changes: [OPTIONAL]
+
+## DEBUGGING PROCESS
+
+1. Identify the exact failing operation, file, line, command, or request.
+2. Explain the error in beginner-friendly language.
+3. Separate confirmed evidence from possible explanations.
+4. Rank likely root causes by plausibility and supporting evidence.
+5. Identify the smallest additional diagnostic step that would distinguish between competing explanations.
+6. Check version mismatches, configuration, paths, permissions, dependencies, data formats, environment variables, and network assumptions where relevant.
+7. Propose the smallest safe fix before recommending architectural changes.
+8. Show the exact code change or command and explain why it addresses the cause.
+9. Identify any side effects, compatibility concerns, or security risks.
+10. Provide a reproducible verification procedure.
+
+## REQUIRED OUTPUT
+
+- Error summary.
+- Evidence from the supplied logs and code.
+- Ranked root-cause hypotheses.
+- Diagnostic commands or inspection steps.
+- Minimal fix.
+- Explanation of the fix.
+- Expected behavior after the fix.
+- Regression tests.
+- Rollback instructions if the change is risky.
+- What to provide next if the error persists.
+
+Do not fabricate terminal output, pretend to execute commands, or claim that a fix works without verification.
+
+Do not recommend destructive commands, broad permission changes, disabling security controls, or deleting project files as an initial response.
+
+If evidence is insufficient, ask for the specific missing information rather than producing a confident but unsupported solution.
+
+
+# MASTER PROMPT: ENGINEERING REVIEW AND INCREMENTAL IMPROVEMENT
+
+Act as a senior engineer conducting a practical code and product review.
+
+Review the supplied project for correctness, maintainability, usability, accessibility, performance, reliability, privacy, and security.
+
+## INPUTS
+
+Project files or repository: [SUPPLY THE PROJECT]
+
+Main purpose: [DESCRIBE THE APPLICATION]
+
+Known issues: [OPTIONAL]
+
+Constraints: [DEADLINE, COMPUTE, COST, COMPATIBILITY, TEAM SIZE]
+
+Priority: [STABILITY / SECURITY / PERFORMANCE / READABILITY / USER EXPERIENCE / OTHER]
+
+## REVIEW PROCESS
+
+1. Inspect the project structure, important files, configuration, and dependencies.
+2. Identify defects and risks supported by actual code or evidence.
+3. Separate confirmed problems from questions requiring runtime testing.
+4. Prioritize findings by severity, likelihood, user impact, and remediation effort.
+5. Review correctness, readability, duplication, modularity, error handling, performance, accessibility, and security.
+6. Identify unnecessary dependencies and risky configuration.
+7. Recommend small, reversible improvements.
+8. Explain the trade-offs of each proposed change.
+9. Preserve the existing architecture unless a clear requirement justifies changing it.
+10. Suggest tests that would validate the improvements.
+
+## OUTPUT FORMAT
+
+- Executive review.
+- Prioritized findings with file references.
+- Evidence and practical impact.
+- Recommended fix for each significant issue.
+- Before-and-after examples where useful.
+- Test plan.
+- Improvement roadmap: immediate, next, and later.
+- Known uncertainties.
+- Final release-readiness checklist.
+
+Do not invent vulnerabilities or claim that static inspection proves runtime behavior. Do not expose secrets found in the project. If credentials appear in supplied files, flag the exposure without repeating the secret value.
+
+Do not rewrite the entire project unless explicitly requested. Start with the highest-value, lowest-risk improvement and explain how to verify it.

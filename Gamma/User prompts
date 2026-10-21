@@ -1,0 +1,207 @@
+# MASTER PROMPT: TRANSFORM A RESEARCH PAPER INTO A PRESENTATION
+
+Act as a research analyst, subject-matter educator, and academic presentation designer.
+
+Convert the supplied research paper or collection of papers into a presentation that accurately communicates the authors' work.
+
+Paper or papers: [UPLOAD THE MATERIAL]
+
+Audience: [BEGINNER / UNDERGRADUATE / RESEARCHER / PROFESSIONAL]
+
+Presentation objective: [SEMINAR / JOURNAL CLUB / PROJECT REVIEW / CONFERENCE]
+
+Duration and slide count: [SPECIFY OR RECOMMEND]
+
+## REQUIRED STRUCTURE
+
+1. Title and verified publication information.
+2. Research background and problem.
+3. Motivation and research gap, distinguishing author claims from independently verified gaps.
+4. Research questions and objectives.
+5. Proposed method or architecture.
+6. Dataset, experimental setup, or evaluation methodology.
+7. Main results with accurately labelled values and units.
+8. Comparison with baselines where reported.
+9. Limitations acknowledged by the authors.
+10. Additional limitations that can be justified from the methodology.
+11. Future work and unresolved questions.
+12. References.
+
+## FIDELITY RULES
+
+Preserve the paper's actual methods, terminology, results, and qualifications.
+
+Never invent an experiment, dataset, metric, improvement percentage, statistical significance, or future result.
+
+If the paper does not provide a value, write "Not reported in the supplied paper."
+
+Clearly distinguish the authors' claims from your interpretation. If results are extracted from charts, flag any approximate readings.
+
+## VISUAL DESIGN
+
+Prefer architecture diagrams, experiment-flow diagrams, comparison tables, and charts derived from actual reported values.
+
+Avoid copying figures without considering their license and citation requirements. When reproducing a figure is inappropriate, create an original explanatory diagram based on the paper's description and cite the source.
+
+## OUTPUT
+
+First create a slide outline with a factual evidence checklist. Then generate the deck, add source references, and identify the claims that still need human verification.
+
+# MASTER PROMPT: CREATE A PROFESSIONAL ACADEMIC SEMINAR PRESENTATION
+
+Act as an academic educator, technical subject expert, presentation storyteller, visual designer, and research fact-checker.
+
+Create a professional seminar presentation on the topic and using the materials I provide.
+
+Topic: [ANY SUBJECT]
+
+Audience: [BEGINNERS / COLLEGE STUDENTS / SPECIALISTS / MIXED AUDIENCE]
+
+Presentation duration: [MINUTES]
+
+Required slide count: [NUMBER OR RECOMMEND A SUITABLE COUNT]
+
+Source materials: [NOTES / PDF / RESEARCH / LINKS / NONE]
+
+Institutional requirements: [OPTIONAL]
+
+## CONTENT PLAN
+
+1. Define the purpose and learning objectives.
+2. Organize the topic into a logical narrative from context to explanation, examples, applications, and conclusion.
+3. Introduce prerequisites before advanced ideas.
+4. Explain terminology in clear language.
+5. Include practical examples and relevant applications.
+6. Use diagrams to explain processes and relationships.
+7. Use charts only when supported by meaningful numerical data.
+8. Include a conclusion that revisits the learning objectives.
+9. Provide a reference slide containing credible sources.
+10. Include speaker notes or presentation talking points where supported.
+
+## DESIGN REQUIREMENTS
+
+Use a consistent theme, restrained color palette, readable typography, generous spacing, and clear visual hierarchy.
+
+Keep each slide focused on one central message. Replace long paragraphs with concise explanations, diagrams, tables, or meaningful comparisons.
+
+Avoid decorative images that do not support the content. Do not fabricate diagrams of real systems, statistics, citations, or research results.
+
+## SOURCE REQUIREMENTS
+
+Use supplied sources as the primary authority for claims about their contents. If research access is available and requested, supplement them with reliable official or scholarly sources.
+
+Attach citations to the claims they support. Verify titles, authors, dates, and URLs. Mark unsupported information as requiring verification.
+
+## OUTPUT
+
+Produce a slide-by-slide outline before generation when the workflow supports it. Then create the presentation, identify uncertain claims, and recommend improvements.
+
+Use placeholders where evidence or institution-specific details are missing. Do not claim that the generated deck is academically verified until its claims and references have been checked.
+
+
+# MASTER PROMPT: TEACH A DIFFICULT CONCEPT THROUGH VISUAL STORYTELLING
+
+Act as a visual educator, technical explainer, and presentation designer.
+
+Create a presentation that helps a beginner understand a difficult concept without oversimplifying its technical meaning.
+
+Topic: [ANY CONCEPT]
+
+Learner's background: [WHAT THEY ALREADY KNOW]
+
+Learning objective: [WHAT THEY SHOULD BE ABLE TO EXPLAIN OR DO]
+
+Source material: [OPTIONAL]
+
+Duration and slide count: [SPECIFY OR RECOMMEND]
+
+## TEACHING SEQUENCE
+
+1. Begin with a real problem or question.
+2. Explain why the concept matters.
+3. Introduce the prerequisites.
+4. Use an everyday analogy.
+5. Explain where the analogy breaks down.
+6. Present a step-by-step visual explanation.
+7. Introduce accurate technical terminology gradually.
+8. Work through a concrete example.
+9. Show a common misconception and correct it.
+10. Connect the concept to a practical application.
+11. Finish with a short recap and comprehension questions.
+
+## VISUAL REQUIREMENTS
+
+Use purposeful diagrams, labelled arrows, simple process flows, comparisons, and progressive visual reveals where appropriate.
+
+Every diagram must accurately represent the concept. Avoid using an attractive image as a substitute for explaining a mechanism.
+
+Keep slide text concise and readable. Use a consistent visual language across the presentation.
+
+## ACCURACY
+
+Use the supplied source when available. Verify important definitions and equations against reliable material.
+
+Do not invent scientific findings or claim that an analogy is a complete technical explanation.
+
+## OUTPUT
+
+Provide the learning narrative, slide-by-slide content, visual instructions, suggested speaker notes, references, and a verification checklist.
+
+Identify the most difficult slide and propose one alternative explanation for learners who do not understand it the first time.
+
+
+# MASTER PROMPT: BUILD A CREDIBLE PROJECT PITCH DECK
+
+Act as a product strategist, technical architect, pitch-deck designer, and evidence-conscious reviewer.
+
+Create a pitch deck for the project, product, service, research proposal, or startup idea I provide.
+
+Project: [ANY IDEA]
+
+Target users: [AUDIENCE]
+
+Stage: [IDEA / PROTOTYPE / WORKING PRODUCT / VALIDATED PRODUCT]
+
+Available evidence: [USER INTERVIEWS / DATA / PROTOTYPE / RESEARCH / NONE]
+
+Audience for the pitch: [FACULTY / HACKATHON JUDGES / INVESTORS / CUSTOMERS / PARTNERS]
+
+Duration and slide count: [SPECIFY OR RECOMMEND]
+
+## DECK STRUCTURE
+
+Select the appropriate sections from:
+- Title and one-sentence value proposition.
+- Problem and target users.
+- Evidence that the problem matters.
+- Existing alternatives and their limitations.
+- Proposed solution.
+- Core features and user journey.
+- System architecture and technology choices.
+- Feasibility and implementation plan.
+- Differentiation and defensibility.
+- Risks, constraints, and dependencies.
+- Validation plan and success metrics.
+- Roadmap and milestones.
+- Expected impact.
+- Request, next steps, or conclusion.
+
+## EVIDENCE RULES
+
+Distinguish existing achievements from future plans.
+
+Use actual data when provided. If market size, adoption, performance, cost, or impact has not been measured, use clearly labelled placeholders rather than invented numbers.
+
+Do not claim that a prototype is deployed, tested, patented, profitable, or validated unless supporting evidence is supplied.
+
+Explain technical trade-offs in language suitable for the pitch audience.
+
+## VISUAL DESIGN
+
+Use concise headlines, diagrams, user journeys, architecture visuals, and evidence-backed charts.
+
+Keep a consistent visual theme and avoid decorative slides that do not strengthen the argument.
+
+## OUTPUT
+
+Produce the pitch narrative, slide outline, visual guidance, evidence checklist, risk summary, and follow-up questions. Create the deck only after identifying missing information that could materially affect its credibility.

@@ -1,0 +1,49 @@
+Company Research
+Research Tata Consultancy Services Limited (NSE: TCS) as of the current date and time.
+
+Summarize:
+- Business model and major revenue sources.
+- Geographic and industry exposure.
+- Competitive position.
+- Latest available quarterly and annual financial performance.
+- Growth drivers and major business risks.
+
+Prefer official company filings, investor-relations materials, exchange disclosures, and reputable financial data providers.
+
+Cite each material factual claim with a direct source link and publication date. Label the reporting period and currency of each financial figure. Clearly distinguish reported facts, management statements, third-party analysis, and your own interpretation.
+
+If a source is unavailable or the data is stale, state that limitation instead of filling the gap with a guess.
+
+
+Prompt 2 — Financial performance analysis
+Compare TCS's latest available reported financial period with the equivalent period one year earlier.
+
+Show:
+1. Revenue and revenue growth.
+2. Net profit and net-profit growth.
+3. Operating margin, if consistently reported.
+4. EPS, if available and comparable.
+
+For each metric, give the source figures, period, units, consolidated or standalone basis, and formula.
+
+Use:
+Growth (%) = ((Current period value - Prior-year value) / Prior-year value) × 100
+
+Show the arithmetic so I can reproduce it. Explain whether each metric improved or deteriorated and why that conclusion does not automatically predict the share price.
+
+Do not calculate a growth rate if the denominator is zero or the comparison is not meaningful. Do not substitute estimates for reported values without labeling them.
+
+Prompt 3 — Bull, base, and bear scenarios
+Create illustrative bull, base, and bear scenarios for TCS's next financial reporting period.
+
+First collect the latest verified reported revenue, operating margin or operating costs, interest costs where relevant, and tax assumptions. Cite the source and period of each baseline figure.
+
+For each scenario, explicitly state assumed:
+- Revenue growth.
+- Operating margin or operating-cost change.
+- Interest and other relevant costs.
+- Tax rate.
+
+Calculate illustrative operating profit and net profit using clearly explained formulas. If required data is missing, state the limitation and use a symbolic formula instead of inventing a baseline.
+
+Keep reported historical facts separate from hypothetical assumptions. Do not assign unsupported probabilities, promise a result, or convert profit scenarios into share-price targets.
