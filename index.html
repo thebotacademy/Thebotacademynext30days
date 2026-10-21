@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FocusFlow Planner</title>
+    <meta name="description" content="A polished single-page study and task planner." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Productivity workspace</p>
+          <h1>FocusFlow Planner</h1>
+        </div>
+        <button class="ghost-button" type="button" id="reset-demo-data-button">Reset demo data</button>
+      </header>
+
+      <main class="dashboard" aria-label="FocusFlow Planner dashboard">
+        <section class="panel primary-panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Plan your week</p>
+              <h2>Add a task</h2>
+            </div>
+          </div>
+
+          <form id="task-form" class="task-form" novalidate>
+            <div class="field-row two-up">
+              <label class="field">
+                <span>Task title</span>
+                <input id="task-title" name="title" type="text" maxlength="80" placeholder="Design portfolio landing page" />
+                <small class="error-message" id="title-error" aria-live="polite"></small>
+              </label>
+
+              <label class="field">
+                <span>Category</span>
+                <select id="task-category" name="category">
+                  <option value="Study">Study</option>
+                  <option value="Work">Work</option>
+                  <option value="Personal">Personal</option>
+                  <option value="Wellbeing">Wellbeing</option>
+                </select>
+              </label>
+            </div>
+
+            <div class="field-row three-up">
+              <label class="field">
+                <span>Priority</span>
+                <select id="task-priority" name="priority">
+                  <option value="High">High</option>
+                  <option value="Medium" selected>Medium</option>
+                  <option value="Low">Low</option>
+                </select>
+              </label>
+
+              <label class="field">
+                <span>Effort</span>
+                <select id="task-effort" name="effort">
+                  <option value="15 min">15 min</option>
+                  <option value="30 min">30 min</option>
+                  <option value="45 min">45 min</option>
+                  <option value="1 hour">1 hour</option>
+                  <option value="2 hours">2 hours</option>
+                </select>
+              </label>
+
+              <label class="field">
+                <span>Due date</span>
+                <input id="task-due" name="dueDate" type="date" />
+              </label>
+            </div>
+
+            <div class="field-row">
+              <label class="field">
+                <span>Notes</span>
+                <textarea id="task-notes" name="notes" rows="3" placeholder="Add context, resources, or next step..."></textarea>
+              </label>
+            </div>
+
+            <div class="form-actions">
+              <button class="primary-button" type="submit">Add task</button>
+            </div>
+          </form>
+        </section>
+
+        <aside class="panel timer-panel">
+          <div class="panel-heading compact">
+            <div>
+              <p class="eyebrow">Deep work</p>
+              <h2>Focus timer</h2>
+            </div>
+          </div>
+
+          <div class="timer-display" id="timer-display" aria-live="polite">25:00</div>
+
+          <div class="timer-actions">
+            <button class="primary-button" id="timer-toggle" type="button">Start</button>
+            <button class="secondary-button" id="timer-reset" type="button">Reset</button>
+          </div>
+
+          <div class="mode-picker" aria-label="Timer mode selector">
+            <button class="mode-button active" data-mode="work" type="button">Work</button>
+            <button class="mode-button" data-mode="break" type="button">Break</button>
+          </div>
+          <p class="helper-text" id="timer-status">A 25-minute session is ready.</p>
+        </aside>
+
+        <section class="panel stats-panel" aria-label="Task summaries">
+          <div class="stats-grid">
+            <article class="stat-card accent-purple">
+              <span class="stat-label">Completed</span>
+              <strong id="stat-completed">0</strong>
+            </article>
+            <article class="stat-card accent-cyan">
+              <span class="stat-label">In progress</span>
+              <strong id="stat-progress">0</strong>
+            </article>
+            <article class="stat-card accent-gold">
+              <span class="stat-label">High priority</span>
+              <strong id="stat-priority">0</strong>
+            </article>
+            <article class="stat-card accent-green">
+              <span class="stat-label">Weekly streak</span>
+              <strong id="stat-streak">5 days</strong>
+            </article>
+          </div>
+        </section>
+
+        <section class="panel tasks-panel" aria-label="Task overview">
+          <div class="panel-heading toolbar">
+            <div>
+              <p class="eyebrow">Task board</p>
+              <h2>Your queue</h2>
+            </div>
+            <div class="toolbar-controls">
+              <label class="search-field">
+                <span class="sr-only">Search tasks</span>
+                <input id="task-search" type="search" placeholder="Search tasks" aria-label="Search tasks" />
+              </label>
+
+              <label class="select-field">
+                <span class="sr-only">Filter by status</span>
+                <select id="status-filter" aria-label="Filter by status">
+                  <option value="all">All status</option>
+                  <option value="todo">To do</option>
+                  <option value="doing">In progress</option>
+                  <option value="done">Done</option>
+                </select>
+              </label>
+
+              <label class="select-field">
+                <span class="sr-only">Filter by priority</span>
+                <select id="priority-filter" aria-label="Filter by priority">
+                  <option value="all">All priority</option>
+                  <option value="High">High</option>
+                  <option value="Medium">Medium</option>
+                  <option value="Low">Low</option>
+                </select>
+              </label>
+            </div>
+          </div>
+
+          <ul class="task-list" id="task-list" aria-live="polite"></ul>
+        </section>
+
+        <section class="panel habits-panel" aria-label="Habit tracker">
+          <div class="panel-heading compact">
+            <div>
+              <p class="eyebrow">Momentum</p>
+              <h2>Habit tracker</h2>
+            </div>
+          </div>
+
+          <div class="habit-list" id="habit-list"></div>
+        </section>
+      </main>
+    </div>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
