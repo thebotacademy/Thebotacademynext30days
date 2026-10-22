@@ -1,0 +1,426 @@
+Youtube 
+ DAY 6 — MASTER PROMPT ENGINEERING
+## YouTube Script in Tanglish
+
+### 00:00–00:25 — Hook
+
+Neenga ChatGPT open panni, “Act as an expert, give me the best answer” nu type panreengala?
+
+Adhu mattum podhaadhu!
+
+Oru AI animation create pannanum, competitors-a analyse pannanum, proper research pannanum, illa engaging video script write pannanum-na, role kudukkaradha vida mukkiyamaana instructions irukku.
+
+Innaikku naalu real examples-la kaatturen. Prompt type pannradhu mattum illa — output-la enna difference varudhu, adha eppadi check pannanum-nu paappom.
+
+### 00:25–01:10 — Role prompting: the actual difference
+
+First, role prompting.
+
+Role kudukkaradhu useful. Aana “Act as an expert” nu sonna mattum AI-ku unga exact requirement therinjidaadhu.
+
+Example-ku, “Act as a marketing expert” nu type panreenga.
+
+Marketing expert enna pannanum? Social media plan-aa? Competitor research-aa? Ad campaign-aa? Sales strategy-aa?
+
+Adhu specify pannala.
+
+So, role-kooda task-um context-um output-um specify pannanum.
+
+Simple formula:
+
+Role — yaar maadhiri work pannanum?
+
+Task — enna pannanum?
+
+Context — endha situation-ku?
+
+Constraints — enna limits irukku?
+
+Output — answer eppadi venum?
+
+Verification — result correct-aa irukka eppadi check pannradhu?
+
+Idha oru formula maadhiri use pannalaam. Aana ella prompt-kum ella component-um thevai illa.
+
+Ippo actual examples-ku polaam.
+
+### 01:10–03:10 — Demo 1: AI animation
+
+Suppose namakku oru cinematic 3D animation venum.
+
+Weak prompt: “Create a cool futuristic city animation.”
+
+Idhu romba vague. City eppadi irukkanum? Camera move aaganuma? Lights eppadi? Video vertical-aa horizontal-aa? Ethuvume specify pannala.
+
+Ippo prompt-a improve pannuvom.
+
+[SCREEN RECORDING: Paste the animation master prompt and fill in the scene details.]
+
+Namma role-a animation director-nu define panrom. Scene-la enna irukku, enna action nadakkanum, camera eppadi move aaganum, lighting eppadi irukkanum, duration evlo, aspect ratio enna-nu specify panrom.
+
+Innum mukkiyamaana vishayam — continuity.
+
+First shot-la city blue lighting-la irundhaa, next shot-la reason illaama colour, buildings, location ellam change aagakoodaadhu. Adhanala consistency requirements-um include panrom.
+
+Ippo output-la final video prompt mattum illaama, shot-by-shot timeline-um varudhu.
+
+[SHOW THE GENERATED PROMPT, THEN THE VIDEO GENERATOR RESULT.]
+
+Result perfect-aa irukkum-nu guarantee illa. Generated video-la camera movement unnatural-aa irukkalaam, objects distort aagalaam, continuity break aagalaam.
+
+Adhanala prompt-oda kooda quality checklist kekkanum. Generate pannitu inspect pannanum.
+
+Animation-ku takeaway: visual adjectives mattum sollaadheenga. Subject, action, camera, lighting, duration, continuity ellam describe pannunga.
+
+### 03:10–05:20 — Demo 2: Proper research
+
+Next, research.
+
+Namma “Research AI tools in 2026” nu AI-kitta kettaa, oru long answer kidaikkalaam.
+
+Aana andha tools current-aa irukka? Pricing correct-aa? Source actually andha claim-a support pannudha? Idha eppadi therinjukkaradhu?
+
+Research prompt-la first, question specific-aa irukkanum.
+
+Second, time period specify pannanum.
+
+Third, source requirements kudukkanum.
+
+Fourth, conflicting evidence and limitations-um kekkanum.
+
+[SCREEN RECORDING: Run the research prompt.]
+
+Ippo output-la claim, source, publication date, evidence, limitations-nu table kekkirom.
+
+Adhu mattum illa — direct source link-um venum.
+
+[OPEN TWO SOURCES AND COMPARE THEM WITH THE AI'S CLAIMS.]
+
+Oru source link irukkaradhu mattum proof illa. Source open panni, adhu namma claim-a actually support pannudha-nu check pannanum.
+
+AI browse panna mudiyala-na, current research pannina maadhiri pretend panna koodaadhu. Andha limitation-a clearly sollanum.
+
+Research-ku takeaway: summary mattum kekkaadheenga. Evidence, date, uncertainty, and verification-um kekkunga.
+
+### 05:20–07:40 — Demo 3: Competitive analysis
+
+Ippo useful-aana business example.
+
+Suppose namma oru AI education brand start panrom. Market-la already pala academies irukku.
+
+Namma “Analyse our competitors” nu type panninaa, generic strengths and weaknesses list kidaikkalaam.
+
+Aana business decision edukka adhu mattum podhaadhu.
+
+First, market specify pannanum. Geography, target customer, namma offer, business objective — idhellaam kudukkanum.
+
+Next, competitors-a compare panna criteria specify pannanum.
+
+Pricing, course structure, target audience, positioning, publicly visible marketing channels, customer feedback themes, and market gaps.
+
+[SCREEN RECORDING: Open actual competitor websites and public pricing pages. Enter the research prompt.]
+
+Inga oru important difference irukku.
+
+Public website-la course price irundhaa, adha verify pannalaam. Aana competitor-oda actual revenue, conversion rate, private ad performance namakku theriyadhu.
+
+Adha AI invent panna allow panna koodaadhu.
+
+So, verified fact, inference, unknown — indha moonaiyum separate panna sollrom.
+
+Finally, “competitors enna panraanga?” nu mattum illaama, “Namma enna test pannalaam?”-num kekkirom.
+
+For example, oru competitor free workshop conduct panraanga-na, namma adhe strategy copy panna vendiya avasiyam illa. Audience-ku workshop useful-aa irukka? Enna evidence irukku? Namma audience-kitta oru small experiment panni validate panna mudiyuma? Nu yosikkanum.
+
+Competitive analysis-ku takeaway: competitor list create pannradhu goal illa. Evidence-based business decision edukkaradhu dhaan goal.
+
+### 07:40–09:45 — Demo 4: Better YouTube and Instagram scripts
+
+Next, content creation.
+
+“Write a viral Instagram Reel” nu AI-kitta sonnaa, generic hook, generic tips, generic CTA varalaam.
+
+Adhukku badhila, namma audience yaaru, avanga enna problem face panraanga, video-la enna demonstrate panna mudiyum, duration evlo, language enna-nu specify pannuvom.
+
+Inga innoru powerful tip: reference examples kudunga.
+
+High-performing videos-a research pannitu, avanga script-a copy panna sollaadheenga. Adhula observable patterns-a analyse panna sollunga.
+
+For example, opening-la problem kaatturaangala? Actual demo irukka? Output comparison irukka? End-la useful takeaway irukka?
+
+[SHOW TWO OR THREE REFERENCE EXAMPLES AND A SHORT PATTERN ANALYSIS.]
+
+Next, script-a one shot-la final panna vendam.
+
+First, audience problem and unique angle.
+
+Second, three hooks.
+
+Third, outline.
+
+Fourth, full script with visual directions.
+
+Fifth, repetition and factual claims check.
+
+Idhu staged workflow. Oru prompt-la ellathaiyum force pannradha vida, complex task-ku separate stages useful-aa irukkalaam.
+
+[SHOW THE SCRIPT AND THE SCREEN-RECORDING PLAN.]
+
+Innum mukkiyamaana vishayam — script natural-aa pesura maadhiri irukkanum. Written essay maadhiri irundhaa, adha aloud read panni awkward lines-a rewrite pannunga.
+
+Content-ku takeaway: “Write a viral script” nu mattum sollaadheenga. Audience, evidence, hook, demonstration, pacing, visuals, and runtime specify pannunga.
+
+### 09:45–10:45 — The reusable prompt framework
+
+Ippo naalu demos-la irundhu oru common method edukkalaam.
+
+Goal — enna result venum?
+
+Context — AI enna therinjukkanum?
+
+Audience — yaarukkaaga create panrom?
+
+Constraints — enna include pannanum, enna avoid pannanum?
+
+Output — final result eppadi venum?
+
+Verification — result-a eppadi check pannanum?
+
+Indha six elements useful starting point. Aana simple question-ku full template thevai illa.
+
+Complex research, coding, business strategy, animation maadhiri tasks-ku detailed instructions useful-aa irukkum.
+
+### 10:45–11:30 — Three mistakes to avoid
+
+First, role mattum kuduthu stop pannadheenga. Actual task and constraints-um specify pannunga.
+
+Second, longer prompt-na better answer-nu assume pannadheenga. Relevant information dhaan mukkiyam.
+
+Third, AI output-a final truth-nu accept pannadheenga. Research-na source verify pannunga; code-na run pannunga; animation-na inspect pannunga; business analysis-na facts and assumptions-a separate pannunga.
+
+### 11:30–12:00 — Closing
+
+Innaikku neenga oru useful lesson learn panniruppeenga-nu namburen.
+
+AI-kitta just answer kekkaradha vida, useful result create panna clear direction kudunga. Adhukku apram result-a evaluate pannunga.
+
+Animation, research, competitor analysis, scriptwriting — naalu copy-paste prompts-um resource pack-la irukkum.
+
+Video-va save pannunga, oru prompt-a unga own task-ku apply pannunga, result enna difference create pannudhu-nu test pannunga.
+
+
+
+
+Instagram
+
+## YouTube Script in Tanglish
+
+### 00:00–00:25 — Hook
+
+Neenga ChatGPT open panni, “Act as an expert, give me the best answer” nu type panreengala?
+
+Adhu mattum podhaadhu!
+
+Oru AI animation create pannanum, competitors-a analyse pannanum, proper research pannanum, illa engaging video script write pannanum-na, role kudukkaradha vida mukkiyamaana instructions irukku.
+
+Innaikku naalu real examples-la kaatturen. Prompt type pannradhu mattum illa — output-la enna difference varudhu, adha eppadi check pannanum-nu paappom.
+
+### 00:25–01:10 — Role prompting: the actual difference
+
+First, role prompting.
+
+Role kudukkaradhu useful. Aana “Act as an expert” nu sonna mattum AI-ku unga exact requirement therinjidaadhu.
+
+Example-ku, “Act as a marketing expert” nu type panreenga.
+
+Marketing expert enna pannanum? Social media plan-aa? Competitor research-aa? Ad campaign-aa? Sales strategy-aa?
+
+Adhu specify pannala.
+
+So, role-kooda task-um context-um output-um specify pannanum.
+
+Simple formula:
+
+Role — yaar maadhiri work pannanum?
+
+Task — enna pannanum?
+
+Context — endha situation-ku?
+
+Constraints — enna limits irukku?
+
+Output — answer eppadi venum?
+
+Verification — result correct-aa irukka eppadi check pannradhu?
+
+Idha oru formula maadhiri use pannalaam. Aana ella prompt-kum ella component-um thevai illa.
+
+Ippo actual examples-ku polaam.
+
+### 01:10–03:10 — Demo 1: AI animation
+
+Suppose namakku oru cinematic 3D animation venum.
+
+Weak prompt: “Create a cool futuristic city animation.”
+
+Idhu romba vague. City eppadi irukkanum? Camera move aaganuma? Lights eppadi? Video vertical-aa horizontal-aa? Ethuvume specify pannala.
+
+Ippo prompt-a improve pannuvom.
+
+[SCREEN RECORDING: Paste the animation master prompt and fill in the scene details.]
+
+Namma role-a animation director-nu define panrom. Scene-la enna irukku, enna action nadakkanum, camera eppadi move aaganum, lighting eppadi irukkanum, duration evlo, aspect ratio enna-nu specify panrom.
+
+Innum mukkiyamaana vishayam — continuity.
+
+First shot-la city blue lighting-la irundhaa, next shot-la reason illaama colour, buildings, location ellam change aagakoodaadhu. Adhanala consistency requirements-um include panrom.
+
+Ippo output-la final video prompt mattum illaama, shot-by-shot timeline-um varudhu.
+
+[SHOW THE GENERATED PROMPT, THEN THE VIDEO GENERATOR RESULT.]
+
+Result perfect-aa irukkum-nu guarantee illa. Generated video-la camera movement unnatural-aa irukkalaam, objects distort aagalaam, continuity break aagalaam.
+
+Adhanala prompt-oda kooda quality checklist kekkanum. Generate pannitu inspect pannanum.
+
+Animation-ku takeaway: visual adjectives mattum sollaadheenga. Subject, action, camera, lighting, duration, continuity ellam describe pannunga.
+
+### 03:10–05:20 — Demo 2: Proper research
+
+Next, research.
+
+Namma “Research AI tools in 2026” nu AI-kitta kettaa, oru long answer kidaikkalaam.
+
+Aana andha tools current-aa irukka? Pricing correct-aa? Source actually andha claim-a support pannudha? Idha eppadi therinjukkaradhu?
+
+Research prompt-la first, question specific-aa irukkanum.
+
+Second, time period specify pannanum.
+
+Third, source requirements kudukkanum.
+
+Fourth, conflicting evidence and limitations-um kekkanum.
+
+[SCREEN RECORDING: Run the research prompt.]
+
+Ippo output-la claim, source, publication date, evidence, limitations-nu table kekkirom.
+
+Adhu mattum illa — direct source link-um venum.
+
+[OPEN TWO SOURCES AND COMPARE THEM WITH THE AI'S CLAIMS.]
+
+Oru source link irukkaradhu mattum proof illa. Source open panni, adhu namma claim-a actually support pannudha-nu check pannanum.
+
+AI browse panna mudiyala-na, current research pannina maadhiri pretend panna koodaadhu. Andha limitation-a clearly sollanum.
+
+Research-ku takeaway: summary mattum kekkaadheenga. Evidence, date, uncertainty, and verification-um kekkunga.
+
+### 05:20–07:40 — Demo 3: Competitive analysis
+
+Ippo useful-aana business example.
+
+Suppose namma oru AI education brand start panrom. Market-la already pala academies irukku.
+
+Namma “Analyse our competitors” nu type panninaa, generic strengths and weaknesses list kidaikkalaam.
+
+Aana business decision edukka adhu mattum podhaadhu.
+
+First, market specify pannanum. Geography, target customer, namma offer, business objective — idhellaam kudukkanum.
+
+Next, competitors-a compare panna criteria specify pannanum.
+
+Pricing, course structure, target audience, positioning, publicly visible marketing channels, customer feedback themes, and market gaps.
+
+[SCREEN RECORDING: Open actual competitor websites and public pricing pages. Enter the research prompt.]
+
+Inga oru important difference irukku.
+
+Public website-la course price irundhaa, adha verify pannalaam. Aana competitor-oda actual revenue, conversion rate, private ad performance namakku theriyadhu.
+
+Adha AI invent panna allow panna koodaadhu.
+
+So, verified fact, inference, unknown — indha moonaiyum separate panna sollrom.
+
+Finally, “competitors enna panraanga?” nu mattum illaama, “Namma enna test pannalaam?”-num kekkirom.
+
+For example, oru competitor free workshop conduct panraanga-na, namma adhe strategy copy panna vendiya avasiyam illa. Audience-ku workshop useful-aa irukka? Enna evidence irukku? Namma audience-kitta oru small experiment panni validate panna mudiyuma? Nu yosikkanum.
+
+Competitive analysis-ku takeaway: competitor list create pannradhu goal illa. Evidence-based business decision edukkaradhu dhaan goal.
+
+### 07:40–09:45 — Demo 4: Better YouTube and Instagram scripts
+
+Next, content creation.
+
+“Write a viral Instagram Reel” nu AI-kitta sonnaa, generic hook, generic tips, generic CTA varalaam.
+
+Adhukku badhila, namma audience yaaru, avanga enna problem face panraanga, video-la enna demonstrate panna mudiyum, duration evlo, language enna-nu specify pannuvom.
+
+Inga innoru powerful tip: reference examples kudunga.
+
+High-performing videos-a research pannitu, avanga script-a copy panna sollaadheenga. Adhula observable patterns-a analyse panna sollunga.
+
+For example, opening-la problem kaatturaangala? Actual demo irukka? Output comparison irukka? End-la useful takeaway irukka?
+
+[SHOW TWO OR THREE REFERENCE EXAMPLES AND A SHORT PATTERN ANALYSIS.]
+
+Next, script-a one shot-la final panna vendam.
+
+First, audience problem and unique angle.
+
+Second, three hooks.
+
+Third, outline.
+
+Fourth, full script with visual directions.
+
+Fifth, repetition and factual claims check.
+
+Idhu staged workflow. Oru prompt-la ellathaiyum force pannradha vida, complex task-ku separate stages useful-aa irukkalaam.
+
+[SHOW THE SCRIPT AND THE SCREEN-RECORDING PLAN.]
+
+Innum mukkiyamaana vishayam — script natural-aa pesura maadhiri irukkanum. Written essay maadhiri irundhaa, adha aloud read panni awkward lines-a rewrite pannunga.
+
+Content-ku takeaway: “Write a viral script” nu mattum sollaadheenga. Audience, evidence, hook, demonstration, pacing, visuals, and runtime specify pannunga.
+
+### 09:45–10:45 — The reusable prompt framework
+
+Ippo naalu demos-la irundhu oru common method edukkalaam.
+
+Goal — enna result venum?
+
+Context — AI enna therinjukkanum?
+
+Audience — yaarukkaaga create panrom?
+
+Constraints — enna include pannanum, enna avoid pannanum?
+
+Output — final result eppadi venum?
+
+Verification — result-a eppadi check pannanum?
+
+Indha six elements useful starting point. Aana simple question-ku full template thevai illa.
+
+Complex research, coding, business strategy, animation maadhiri tasks-ku detailed instructions useful-aa irukkum.
+
+### 10:45–11:30 — Three mistakes to avoid
+
+First, role mattum kuduthu stop pannadheenga. Actual task and constraints-um specify pannunga.
+
+Second, longer prompt-na better answer-nu assume pannadheenga. Relevant information dhaan mukkiyam.
+
+Third, AI output-a final truth-nu accept pannadheenga. Research-na source verify pannunga; code-na run pannunga; animation-na inspect pannunga; business analysis-na facts and assumptions-a separate pannunga.
+
+### 11:30–12:00 — Closing
+
+Innaikku neenga oru useful lesson learn panniruppeenga-nu namburen.
+
+AI-kitta just answer kekkaradha vida, useful result create panna clear direction kudunga. Adhukku apram result-a evaluate pannunga.
+
+Animation, research, competitor analysis, scriptwriting — naalu copy-paste prompts-um resource pack-la irukkum.
+
+Video-va save pannunga, oru prompt-a unga own task-ku apply pannunga, result enna difference create pannudhu-nu test pannunga.
+
+Bk Bharathi ai follow pannunga. Innum practical AI and technology content-oda meet pannalaam!
+
+Zplore follow pannunga. Innum practical AI and technology content-oda meet pannalaam!
