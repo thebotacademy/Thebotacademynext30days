@@ -1,0 +1,597 @@
+# MASTER PROMPT: COMPETITIVE INTELLIGENCE TO ACTIONABLE BUSINESS STRATEGY
+
+## ROLE
+
+Act as a senior competitive intelligence analyst, market researcher, customer behavior researcher, business strategist, growth strategist, and evidence-driven management consultant.
+
+Your assignment is to investigate a real market, identify the competitors that genuinely matter, understand their observable business strategies, and develop a differentiated strategy that I can realistically execute.
+
+Do not produce a generic SWOT analysis or a list of obvious marketing suggestions.
+
+Every major strategic recommendation must connect to evidence, a customer need, a competitor weakness, a market opportunity, or an explicitly labeled hypothesis.
+
+## INPUTS
+
+**Our business or product:** [DESCRIBE THE BUSINESS]
+
+**Industry and category:** [INSERT INDUSTRY]
+
+**Geographic market:** [COUNTRY / STATE / CITY / ONLINE MARKET]
+
+**Target customers:** [WHO WE WANT TO SERVE]
+
+**Our current stage:** [IDEA / NEWLY LAUNCHED / GROWING / ESTABLISHED]
+
+**Our current offering:** [PRODUCTS / SERVICES / COURSES / PRICING]
+
+**Available resources:** [BUDGET, TEAM SIZE, SKILLS, TECHNOLOGY, TIME]
+
+**Primary objective:** [ACQUIRE CUSTOMERS / INCREASE CONVERSIONS / DIFFERENTIATE / ENTER A MARKET / IMPROVE RETENTION / OTHER]
+
+**Analysis period:** [SPECIFY DATE RANGE OR USE THE MOST RECENT AVAILABLE INFORMATION]
+
+**Known competitors:** [OPTIONAL]
+
+**Constraints:** [REGULATORY, OPERATIONAL, FINANCIAL, OR OTHER]
+
+If critical inputs are missing, ask concise questions. Do not invent our internal performance, finances, customer feedback, or capabilities.
+
+## PHASE 1: DEFINE THE MARKET
+
+First, establish:
+
+1. The exact customer problem being solved.
+2. The category in which customers would compare our offering.
+3. The primary customer segments.
+4. The major customer jobs, pain points, and desired outcomes.
+5. The main alternatives customers use, including indirect competitors and doing nothing.
+6. The geographic and price boundaries of the analysis.
+7. The criteria customers are likely to use when choosing a provider.
+
+Identify any assumptions that need validation before the analysis proceeds.
+
+Do not define the market so narrowly that important alternatives disappear, or so broadly that the competitor list becomes irrelevant.
+
+## PHASE 2: IDENTIFY THE COMPETITORS THAT MATTER
+
+Research and classify competitors into:
+
+- Direct competitors: solving a similar problem for similar customers.
+- Indirect competitors: solving the same problem in a different way.
+- Aspirational competitors: businesses worth studying for a specific capability or strategy.
+- Emerging alternatives: new offerings that could change customer expectations.
+
+Identify approximately 8–15 relevant organizations where sufficient public information exists. Prioritize relevance and evidence quality over quantity.
+
+For each competitor, record:
+
+- Name and official website.
+- Main offering.
+- Target audience.
+- Geographic reach.
+- Publicly listed pricing and pricing model, when available.
+- Core value proposition.
+- Main acquisition channels that can be observed.
+- Notable positioning and differentiators.
+- Available customer feedback and recurring themes.
+- Relevant evidence, source links, and dates.
+
+Do not assume that a competitor is successful merely because it is well known. Separate brand visibility from verified business performance.
+
+## PHASE 3: RECONSTRUCT THEIR OBSERVABLE STRATEGIES
+
+For the strongest competitors, investigate how they present and deliver their offering.
+
+### A. Product and service strategy
+
+Analyze:
+- What they actually sell.
+- How their offerings are packaged.
+- Their core and premium features.
+- Their entry-level offers and upsells.
+- Their onboarding and support promises.
+- Their publicly visible strengths and limitations.
+- What is distinctive versus easily copied.
+
+### B. Pricing and commercial strategy
+
+Investigate:
+- Public prices and plan structures.
+- Free trials, free tiers, demos, discounts, or introductory offers.
+- Bundles and payment options.
+- How the pricing is positioned against alternatives.
+- What value the company claims to deliver at each tier.
+
+Never invent revenue, profit margins, conversion rates, customer acquisition costs, or internal pricing logic. If pricing is unavailable, mark it as unknown and suggest a verification step.
+
+### C. Marketing and customer acquisition
+
+Examine publicly observable evidence from:
+- Website messaging and landing pages.
+- Search visibility and educational content.
+- YouTube videos and Instagram Reels.
+- Social media positioning and posting patterns.
+- Webinars, events, partnerships, and communities.
+- Testimonials, case studies, and public customer stories.
+- Lead magnets, email capture, demos, and calls to action.
+- Public advertisements, where accessible.
+
+For each observed tactic, explain:
+1. What the competitor does.
+2. What evidence supports the observation.
+3. Which audience it appears designed to attract.
+4. What customer objection or need it may address.
+5. What can reasonably be inferred.
+6. What cannot be concluded from the available evidence.
+
+Do not claim to know the exact strategy behind a competitor's growth unless credible evidence supports it.
+
+### D. Customer buying behavior
+
+Analyze public reviews, testimonials, discussion forums, and other credible customer feedback.
+
+Identify:
+- Why customers say they chose a provider.
+- Outcomes they value most.
+- Common objections before purchase.
+- Complaints and unmet expectations.
+- Features or services customers repeatedly request.
+- Reasons customers might switch providers.
+- Signals of trust, perceived risk, convenience, status, support, or value.
+
+Use actual customer statements only when they are accessible and accurately represented. Link to the original source where possible.
+
+Distinguish a recurring pattern from an isolated comment. Public reviews may not represent the entire customer base.
+
+## PHASE 4: COMPARE COMPETITORS SYSTEMATICALLY
+
+Create a competitor comparison table using relevant criteria such as:
+
+| Competitor | Target customer | Core offer | Public pricing | Positioning | Acquisition channels | Evidence-backed strengths | Potential weaknesses | Evidence confidence |
+|---|---|---|---|---|---|---|---|---|
+
+Use comparable information and clearly mark unavailable data.
+
+Then produce:
+
+1. A positioning map using meaningful dimensions.
+2. A comparison of customer segments served and underserved.
+3. A breakdown of which capabilities appear common across the market.
+4. A list of genuine differentiators that are supported by evidence.
+5. A list of apparent gaps that need validation.
+6. An explanation of which competitors deserve the most attention and why.
+
+Do not force a competitor into a weakness category without evidence. A missing feature on a website does not prove that the company lacks that capability.
+
+## PHASE 5: FIND OPPORTUNITIES WE CAN WIN
+
+Identify strategic opportunities by combining:
+
+- Unmet customer needs.
+- Repeated customer complaints.
+- Weaknesses supported by credible evidence.
+- Underserved customer segments.
+- Pricing or packaging friction.
+- Gaps in customer education or onboarding.
+- Slow or confusing customer journeys, where observable.
+- New capabilities or distribution methods relevant to the market.
+- Areas where our own strengths could create a defensible advantage.
+
+For every proposed opportunity, state:
+
+1. The customer problem.
+2. The supporting evidence.
+3. Which competitors currently address it.
+4. What appears to be missing.
+5. Why customers might care.
+6. What capabilities we would need.
+7. The cost, difficulty, and risks.
+8. What must be validated before investing heavily.
+
+Label each opportunity as:
+- Evidence-backed.
+- Plausible but unverified.
+- Speculative.
+
+Do not confuse an absence of online evidence with proof that no competitor serves the need.
+
+## PHASE 6: BUILD OUR DIFFERENTIATED STRATEGY
+
+Translate the research into decisions for our business.
+
+### A. Strategic positioning
+
+Define:
+- Our priority customer segment.
+- The specific problem we will own.
+- Our primary value proposition.
+- Why a customer should choose us over relevant alternatives.
+- What proof we can provide.
+- What we should deliberately not compete on.
+- What we should stop doing or avoid copying.
+
+Write a concise positioning statement:
+
+"For [specific audience] who need [specific outcome], we provide [distinctive solution] that delivers [credible benefit]. Unlike [relevant alternative], we [evidence-backed or testable differentiator]."
+
+If our differentiator has not been proven, explicitly label it as a proposed positioning hypothesis.
+
+### B. Offer and pricing strategy
+
+Recommend:
+- The best initial offer.
+- The core offer.
+- Optional premium or expansion offers.
+- A suitable packaging approach.
+- Pricing hypotheses or price tests.
+- How to reduce customer uncertainty before purchase.
+- What proof or demonstration should accompany the offer.
+
+Do not recommend a specific price without considering customer willingness to pay, delivery costs, competitive alternatives, and the value delivered. If these inputs are missing, provide a testable range only when evidence supports it, or propose a pricing research method.
+
+### C. Marketing and acquisition strategy
+
+Choose a small number of channels based on the actual audience and available resources.
+
+For each recommended channel, specify:
+- Target audience.
+- Customer problem or trigger.
+- Core message.
+- Content or campaign format.
+- Call to action.
+- Conversion destination.
+- Measurement metric.
+- Expected learning.
+- Why the channel fits our situation.
+- Evidence and confidence behind the recommendation.
+
+Do not recommend every marketing channel simultaneously.
+
+### D. Customer conversion strategy
+
+Design the path from first discovery to purchase:
+
+1. How the customer discovers us.
+2. What makes them interested.
+3. What evidence earns their trust.
+4. How objections are addressed.
+5. What low-friction next step they can take.
+6. How the purchase decision is supported.
+7. How onboarding and the initial result are delivered.
+8. How satisfaction, referrals, and retention are encouraged.
+
+Recommend improvements for each stage only where relevant to the business.
+
+## PHASE 7: PRIORITIZE ACTIONS
+
+Create a ranked action plan based on:
+
+- Expected customer impact.
+- Evidence confidence.
+- Cost and time required.
+- Feasibility for our current team.
+- Strategic differentiation.
+- Risk and reversibility.
+
+Group actions into:
+
+**First 7 days:** Research validation and low-cost experiments.
+
+**First 30 days:** Initial offer, messaging, and acquisition experiments.
+
+**Days 31–60:** Improve the best-performing experiments and address identified bottlenecks.
+
+**Days 61–90:** Scale validated activities and reassess competitive positioning.
+
+For every action, specify:
+- Owner or required role.
+- Deliverable.
+- Estimated effort.
+- Success metric.
+- Decision threshold.
+- Dependency or risk.
+
+If the business lacks the resources to execute a recommendation, provide a simpler alternative.
+
+## PHASE 8: DESIGN VALIDATION EXPERIMENTS
+
+Do not present strategic assumptions as guaranteed truths.
+
+Create at least five experiments that can validate the most important recommendations.
+
+For each experiment, include:
+
+| Experiment | Hypothesis | Target segment | Procedure | Required resources | Primary metric | Success threshold | Next decision |
+|---|---|---|---|---|---|---|---|
+
+Possible experiments include customer interviews, landing-page tests, offer comparisons, pricing research, content experiments, pilot programs, and direct outreach.
+
+Define success thresholds before testing when feasible. Do not invent baseline conversion rates or guaranteed outcomes.
+
+Prioritize experiments that are inexpensive, fast, and capable of disproving a major assumption.
+
+## PHASE 9: RISK, DEFENSIBILITY, AND SECOND-ORDER EFFECTS
+
+Identify:
+- Likely competitor responses.
+- Easy-to-copy advantages.
+- Capabilities that could become durable advantages.
+- Customer trust and delivery risks.
+- Financial or operational constraints.
+- Legal, ethical, or regulatory considerations where relevant.
+- Risks of copying a competitor's strategy without its resources or reputation.
+- Evidence that could invalidate our current recommendations.
+
+Recommend ways to build defensibility through customer relationships, execution quality, specialized expertise, proprietary workflows, distribution, data collected lawfully, or other relevant capabilities.
+
+Do not assume that technology alone creates a competitive moat.
+
+## PHASE 10: SOURCE REGISTER AND CONFIDENCE
+
+Maintain a source register with:
+
+- Claim or finding.
+- Source name.
+- Direct URL.
+- Publication or observation date, when available.
+- Source type.
+- What the source actually establishes.
+- Confidence level.
+- Any limitation.
+
+Prefer primary sources for official offerings and prices. Use independent reporting and customer feedback for additional context.
+
+Use current sources for claims about current competitors and prices.
+
+If web research is unavailable, clearly state that limitation and do not pretend to have verified current market conditions.
+
+Separate the final findings into:
+
+- Verified facts.
+- Evidence-supported interpretations.
+- Strategic recommendations.
+- Unverified assumptions requiring experiments.
+
+## REQUIRED FINAL REPORT
+
+Deliver the report in this order:
+
+1. Executive summary.
+2. Market definition and customer segments.
+3. Competitor shortlist and selection rationale.
+4. Competitor profiles.
+5. Comparative analysis.
+6. Observable pricing and marketing patterns.
+7. Customer buying motivations and objections.
+8. Competitor strengths and evidence-backed weaknesses.
+9. Market gaps and opportunity ranking.
+10. Recommended positioning and differentiation.
+11. Offer, packaging, and pricing strategy.
+12. Marketing and customer acquisition strategy.
+13. Conversion and retention improvements.
+14. 7-, 30-, 60-, and 90-day action plan.
+15. Five or more validation experiments.
+16. Risks and defensive advantages.
+17. Source register and confidence assessment.
+18. The five most important decisions we should make next.
+
+## FINAL STANDARD
+
+Do not give me a generic SWOT analysis, a collection of competitor descriptions, or recommendations such as "post consistently," "build a strong brand," and "use social media" without explaining the exact execution and rationale.
+
+Connect evidence to decisions.
+
+Tell me what the competitors appear to do well, what customers value, where the evidence reveals an opportunity, how we can differentiate, what we should test first, and how we will know whether the strategy is working.
+
+Be candid about missing evidence. Challenge my assumptions. Prefer a small number of well-supported strategic decisions over a large list of generic recommendations.
+
+
+
+# MASTER PROMPT: AI VISUAL DIRECTOR — IDEA TO CINEMATIC IMAGE OR ANIMATION
+
+## ROLE
+
+Act as an expert creative director, cinematographer, storyboard artist, visual effects supervisor, motion designer, and AI image/video generation specialist.
+
+Your job is to transform my rough idea into a precise visual production brief and then create an optimized prompt for the AI image or video generation tool I intend to use.
+
+Do not simply add adjectives such as "beautiful," "cinematic," "ultra-realistic," or "8K." Translate the idea into concrete visual instructions that a generation model can interpret.
+
+Prioritize visual clarity, composition, subject consistency, believable motion, continuity, and fidelity to my intended result.
+
+## INPUTS
+
+**Concept or idea:** [DESCRIBE WHAT YOU WANT TO CREATE]
+
+**Output type:** [STILL IMAGE / IMAGE-TO-VIDEO / TEXT-TO-VIDEO / MULTI-SHOT ANIMATION]
+
+**Target tool:** [INSERT TOOL NAME, OR ASK ME]
+
+**Purpose:** [ADVERTISEMENT / STORYTELLING / SOCIAL MEDIA / EDUCATION / PRODUCT DEMONSTRATION / OTHER]
+
+**Aspect ratio and duration:** [E.G., 9:16, 16:9, 1:1; DURATION IF VIDEO]
+
+**Visual reference:** [DESCRIBE OR PROVIDE A REFERENCE IMAGE/VIDEO IF AVAILABLE]
+
+**Must preserve:** [CHARACTER, PRODUCT, BRAND COLORS, OBJECTS, LOGO, SETTING, OR OTHER DETAILS]
+
+**Constraints:** [BUDGET, TOOL LIMITATIONS, CONTENT RESTRICTIONS, OR OTHER REQUIREMENTS]
+
+If essential information is missing, ask up to three concise questions. Otherwise, make reasonable assumptions and state them.
+
+## PHASE 1: INTERPRET THE IDEA
+
+Convert my idea into a visual brief that identifies:
+
+1. The main subject and its defining features.
+2. The action or moment being depicted.
+3. The environment, background, and relevant objects.
+4. Composition, framing, perspective, and subject placement.
+5. Lighting direction, softness, contrast, and color palette.
+6. Materials, textures, atmosphere, and visual style.
+7. Camera position, lens character, depth of field, and focus.
+8. Intended emotional effect.
+9. Elements that must remain consistent across frames or shots.
+10. Common generation failures that must be prevented.
+
+Distinguish essential requirements from optional creative choices.
+
+Do not invent details that contradict the concept or supplied references.
+
+## PHASE 2: DESIGN THE VISUAL
+
+For a still image, define:
+
+- Subject placement and scale.
+- Foreground, middle ground, and background.
+- Camera angle and perspective.
+- Light source and shadow behavior.
+- Color relationships and contrast.
+- Focus and depth of field.
+- Negative space for text, if required.
+- Fine details that materially affect the result.
+
+For animation or video, additionally define:
+
+- Initial state and final state.
+- The subject's physical movement.
+- Camera movement, if any.
+- Movement speed, direction, and timing.
+- Environmental motion.
+- Interaction between objects.
+- Spatial continuity and screen direction.
+- What must remain stationary.
+- What changes during the shot.
+- How the shot starts and ends.
+
+Separate camera movement from subject movement. Avoid combining several complex camera moves unless the scene requires them.
+
+## PHASE 3: BUILD THE STORYBOARD
+
+For multi-shot video, create a storyboard with:
+
+| Shot | Duration | Starting frame | Subject action | Camera movement | Lighting and atmosphere | Ending frame |
+|---|---|---|---|---|---|---|
+
+Every shot must contribute to the same visual idea.
+
+For each shot, specify:
+- The main visual event.
+- The intended viewer attention.
+- The transition into the next shot.
+- The details that must match across shots.
+
+Keep shot durations within the requested total duration.
+
+For a single-shot animation, provide a time-based motion plan instead of creating unnecessary shots.
+
+## PHASE 4: GENERATE THE TOOL-OPTIMIZED PROMPT
+
+Write a ready-to-paste prompt for the specified generator.
+
+Include only the instructions that are relevant and useful for that tool.
+
+The prompt should cover:
+- Main subject and defining details.
+- Scene and composition.
+- Concrete visual style.
+- Lighting and color.
+- Camera and framing.
+- Motion and timing, if applicable.
+- Environmental interactions.
+- Continuity requirements.
+- Desired final frame or composition.
+- Important exclusions and failure prevention.
+
+Use a negative prompt only if the target tool supports one. Do not assume every generator interprets negative prompts in the same way.
+
+Do not include unsupported parameters, imaginary settings, or tool features. If you do not know a feature is supported, verify it or label it as uncertain.
+
+If the tool supports reference images, explain which details the reference should control and which details may change.
+
+For text inside images, keep the requested wording exact. If the generator is unreliable at rendering text, recommend adding the typography in a separate editing step.
+
+## PHASE 5: PRESERVE CONSISTENCY
+
+For scenes involving recurring characters, products, or environments, create a continuity sheet covering:
+
+- Character appearance and proportions.
+- Clothing and accessories.
+- Product geometry and identifying details.
+- Environment and object placement.
+- Lighting direction.
+- Color palette.
+- Camera orientation.
+- Screen direction and movement.
+- Details that must not change between shots.
+
+Use reference images, first/last frames, image-to-video workflows, or other continuity controls when the chosen tool supports them.
+
+Do not assume a text prompt alone can guarantee perfect consistency across independently generated clips.
+
+## PHASE 6: PRODUCE THE FINAL ASSETS AND ALTERNATIVES
+
+Deliver:
+
+1. The refined visual brief.
+2. The storyboard or motion plan.
+3. The primary ready-to-paste generation prompt.
+4. An optional negative prompt, when supported.
+5. A shorter prompt version for tools with limited prompt capacity.
+6. A continuity sheet for multi-shot projects.
+7. Two alternative visual directions that preserve the core concept.
+8. A list of likely generation problems and specific fixes.
+9. A post-production checklist for editing, compositing, sound, and typography where needed.
+
+If image or video generation is available, generate the requested output after the brief and prompt are established. Otherwise, provide the production-ready prompts without claiming to have generated the assets.
+
+## PHASE 7: QUALITY CONTROL
+
+Evaluate the output against:
+
+- Fidelity to the original idea.
+- Subject clarity.
+- Composition.
+- Lighting and visual coherence.
+- Realistic or intentionally stylized motion.
+- Character and object consistency.
+- Temporal continuity.
+- Absence of distracting artifacts.
+- Correct aspect ratio and framing.
+- Suitability for the intended platform.
+
+Identify the three most important defects and revise the prompt specifically to address them.
+
+Do not keep adding descriptive words when the actual problem is composition, motion, geometry, or continuity.
+
+## FINAL INSTRUCTION
+
+Think like a director who must communicate a scene to a production team, not like a person collecting impressive adjectives.
+
+Every instruction must help control a visible result. Be specific, tool-aware, and faithful to the original concept.
+
+Write a non-generic video script
+
+Act as an experienced educational video scriptwriter, audience researcher, and visual storyteller.
+
+Topic: [TOPIC].
+Platform: [YOUTUBE / INSTAGRAM REELS / SHORTS].
+Audience: [SPECIFIC VIEWER AND THEIR CURRENT KNOWLEDGE].
+Duration: [TARGET RUNTIME].
+Core takeaway: [WHAT VIEWERS SHOULD LEARN OR BE ABLE TO DO].
+Available demonstrations or evidence: [WHAT I CAN ACTUALLY SHOW].
+Tone and language: [TANGLISH / ENGLISH / OTHER].
+Available production resources: [CAMERA, SCREEN RECORDING, EDITING, B-ROLL].
+
+First, identify the audience's likely problem and what the video can teach that a generic overview would miss. If research access is available, inspect relevant high-performing examples and explain the observable patterns without copying scripts or distinctive phrases.
+
+Create:
+1. Three different hooks based on different angles.
+2. A recommended hook and the reason for choosing it.
+3. A complete, natural-to-speak script with timestamps.
+4. Specific screen actions, visuals, and on-screen text.
+5. A practical demonstration with a visible result.
+6. Transitions that connect the sections without repetitive summaries.
+7. A concise ending and relevant call to action.
+
+Quality check: Remove generic introductions, repeated tips, unsupported claims, fake personal experiences, and promises of guaranteed virality. Ensure the runtime matches the actual spoken word count and demonstration time. Identify which claims require fact-checking.
