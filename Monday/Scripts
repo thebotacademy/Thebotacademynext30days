@@ -1,0 +1,53 @@
+### HOOK
+
+“Un website-ah paathadhum ‘idhu AI-la pannadhu’ nu kandupidichiraangala?”
+
+### LOCK-IN
+
+“Coding agent-ah ‘make it premium’ nu 10 thadava sollaadha. Indha 3 inputs kudu!”
+
+### POINT 1 — DESIGN.md
+
+“First, DESIGN.md. Idhu unga website-oda rulebook — colours, fonts, spacing, buttons. Agent ovvoru page-kum pudhusa guess pannaama, consistent-a design panna help pannum.”
+
+### POINT 2 — CONTENT-FIRST WIREFRAME
+
+“Second, code ezhudharadhukku munnaadi wireframe kekka sollu. User yaaru? First screen-la enna puriyanum? Main action enna? Idhellaam clarify pannitu, un real content vechu layout plan panna sollu. Random-a moonu cards vechaa adhu product design aagidaadhu!”
+
+### RE-HOOK
+
+“Aana plan correct-a irundhaalum, ‘premium’ nu sonna udane AI gradient coat adichudum!”
+
+### POINT 3 — DESIGN CONSTRAINT CONTRACT
+
+“So third, clear design rules kudu: maximum two fonts, one accent colour, consistent spacing, one clear CTA. Glow, gradient, cards — edhuvum reason illaama add panna vendaam. Desktop-la mattum illa, mobile-layum check panna sollu.”
+
+### CLOSING + CTA
+
+“Indha prompts, design checklist, useful resources ellam venuma? Comment-la **DESIGN** nu podu. Resource pack share panrom!”
+
+
+
+
+Vid 2
+
+### HOOK
+“October-la namma use panra software updates-la kooda security problems vandhuchu. AI agents use panni 100-kum mela companies-oda websites compromise pannirukkaanga. Appo namma AI-la build panra apps safe-ah?”
+
+### LOCK-IN
+“‘AI, security check pannu’ nu mattum sonna podhaadhu. Indha 3-step workflow follow pannunga!”
+
+### POINT 1 — AI SECURITY AUDIT
+“First, Cloudflare-oda open-source security-audit skill. Claude Code-la install pannitu, ‘security audit this codebase’ nu sollunga. Authentication, API routes, dependencies, secrets handling-la irukkura risks-ah review panna help pannum.”
+
+### POINT 2 — SECRETS + DEPENDENCIES
+“Second, unga API keys, `.env` files, outdated packages check pannunga. API key frontend-la irundha, adhu secret illa… public announcement!”
+
+### RE-HOOK
+“Aana AI kudukkura report-ah blind-ah nambaadheenga. Vulnerability kandupidikkaradhu oru step; fix correct-ah irukka-nu verify panradhu dhaan important!”
+
+### POINT 3 — FIX + VERIFY
+“Changes-ah separate branch-la apply pannunga. Tests run panni staging-la verify pannunga. MFA enable pannunga, unnecessary permissions remove pannunga, leaked keys irundha revoke panni rotate pannunga.”
+
+### CLOSING + CTA
+“Cloudflare skill command, AI audit prompt, full security checklist ellame resource guide-la irukku. Comment-la **SAFE** nu podunga!”
