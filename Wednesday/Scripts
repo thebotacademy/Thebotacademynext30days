@@ -1,0 +1,49 @@
+**HOOK**
+
+“AI app-na prompt kudutha answer varum-nu dhaane nenakkireenga? Aana background-la enna nadakkudhu theriyuma?”
+
+**POINT 1 — FRONTEND**
+
+“First, frontend! CDN unga website content-ah nearby server-lendhu load pannum. Streaming use panninaa, answer token-by-token display aagum. Session unga conversation-ah identify pannum.”
+
+**POINT 2 — MIDDLEWARE**
+
+“Next, middleware! API gateway request-ah route pannum; rate limits usage manage pannum, moderation safety check pannum. App unga system prompt, chat history, question ellathayum combine pannum.”
+
+**RE-HOOK**
+
+“Inga dhaan RAG and semantic cache varudhu!”
+
+**POINT 3 — MODEL + BACKEND**
+
+“RAG relevant documents-ah retrieve pannum; semantic cache similar question-ku suitable answer irundhaa reuse pannum. Model router right model-ah select pannum. Tool calling and MCP moolama external tools-um connect pannalaam.”
+
+**CLOSING**
+
+“Backend-la vector database, PostgreSQL, vLLM maadhiri inference engines work aagum. Finally, logs, latency, token usage and evaluation moolama quality-ah track pannuvom. Idhu dhaan full AI application stack! Architecture guide venumna **STACK** nu comment pannunga!”
+
+
+
+
+Vid 2
+
+Thousands of failed startups. Ovvorutharukkum oru story. Idhellaam ore website-la irukku!
+
+
+### LOCK-IN
+“Website peru Loot-drop.io. Idhu oru Startup Graveyard!”
+
+### POINT 1
+“Indha website-la 1,700-ku mela failed startup case files irukku-nu site report pannudhu. Ovvoru startup enna build pannuchu, eppadi grow aachu, yen fail aachu-nu explore pannalaam.”
+
+### POINT 2
+“Innum useful-ah enna-na, unga idea-ku similar startups-ah search pannunga. Market demand irundhucha, competition eppadi irundhuchu, business model work aachaa-nu compare pannunga.”
+
+### RE-HOOK
+“Idha failure stories padichittu move on panradhukku mattum use pannaadheenga!”
+
+### POINT 3
+“Neenga build panna pora product-ku customers unmaiyave irukkaangala, pay panna ready-ah irukkaangala-nu validate pannunga. Avanga mistakes-lendhu unga next experiment-ah plan pannunga.”
+
+### CLOSING + CTA
+“Website link-um, startup research checklist-um venumna comment-la **GRAVEYARD** nu podunga!”
