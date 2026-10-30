@@ -1,0 +1,94 @@
+
+# VIDEO 1 — LLM HALLUCINATIONS
+**Concept:** A real citation doesn't mean a verified answer.
+**Duration:** Approximately 55–60 seconds.
+
+### HOOK (0–5 sec)
+
+AI-oda biggest problem wrong answer illa… wrong answer-ah correct-nu namba veikkiradhu!”
+
+### LOCK-IN ZONE (5–10 sec)
+
+Oru source real-ah irukku-nu prove aagiduchu. Aana AI sollra claim-ai andha source support pannudha? Adhu dhaan actual problem!
+
+### POINT 1 — WHY IT HAPPENS (10–22 sec)
+
+LLM answer generate pannumbodhu, next token predict pannudhu. Ovvoru sentence-kum fact-check database query pannadhu illa.
+
+So, evidence missing-ah irundhaalum, plausible-ah sound aagura answer generate panna chance irukku.
+
+### POINT 2 — THE RAG TWIST (22–36 sec)
+
+Idha reduce panna RAG use pannalaam. Adhu namma documents-la irundhu relevant information retrieve pannum.
+
+Aana relevant information-na sufficient evidence-nu artham illa!
+
+Wrong chunk retrieve aana, illa required information missing-ah irundha, model still guess pannalaam.
+
+### POINT 3 — THE UNEXPECTED REVEAL (36–48 sec)
+
+Google Research-oda finding enna theriyuma?
+
+Context-la answer panna sufficient information illaadha situations-la, models sometimes "I don't know" nu sollama incorrect answer kudukkalaam.
+
+So, every important claim-ku supporting evidence check pannradhu mukkiyam.
+
+### RE-HOOK (48–54 sec)
+
+Innum oru twist! AI-a evaluate panra scoring system-e guessing-ai encourage pannalaam. Adhaan evaluation-la abstention-um measure pannanum!
+
+### CLOSING + CTA (54–60 sec)
+
+Temperature kammi pannradhu randomness-ai reduce pannum; truth guarantee pannaadhu.
+
+**Citation irukkaa-nu mattum paakadheenga. Andha citation claim-ai support pannudha-nu paarunga!**
+
+
+# VIDEO 2 — vLLM & PAGEDATTENTION
+**Concept:** Every conversation has a GPU memory footprint.
+**Duration:** Approximately 55–60 seconds.
+
+### HOOK (0–5 sec)
+
+Orey GPU-la, vLLM eppadi 24 times adhigamaana LLM requests-ah handle pannudhu?”
+### LOCK-IN ZONE (5–10 sec)
+
+Model weights mattum dhaan GPU memory use pannum-nu ninaikireengala? Actually, ovvoru active request-kum innoru memory requirement irukku!
+
+### POINT 1 — THE HIDDEN MEMORY (10–21 sec)
+
+Adhu dhaan KV Cache.
+
+LLM previous tokens-oda Key and Value information-a store pannum. So, conversation length increase aagumbodhu, KV Cache-um grow aagum.
+
+Multiple users vandha, indha memory-a manage panradhu periya challenge!
+
+### POINT 2 — THE PAGEDATTENTION TWIST (21–37 sec)
+
+Idha solve panna vLLM-la PagedAttention use panraanga.
+
+Normal-ah oru request-ku periya memory space reserve panna, unused space waste aagalaam.
+
+PagedAttention enna pannum-na, KV Cache-a small fixed-size blocks-ah split panni, GPU memory-la available places-la allocate pannum.
+
+Operating system memory paging maadhiri!
+
+### POINT 3 — THE HIDDEN BONUS (37–48 sec)
+
+Innum interesting part enna theriyuma?
+
+Multiple users same system prompt use pannina, vLLM matching KV-cache blocks-a share pannalaam.
+
+Adha Automatic Prefix Caching-nu solluvaanga. Already process panna common prefix-ai again compute panna vendiya avasiyam reduce aagum!
+
+### RE-HOOK (48–54 sec)
+
+Idhoda continuous batching-um combine aagumbodhu, finish aagura requests-oda slots-ku new requests join aagalaam!
+
+### CLOSING + CTA (54–60 sec)
+
+Adhaan vLLM speed mattum illa… GPU memory management-um smart-ah handle pannudhu.
+
+Comment **CACHE** for the vLLM architecture and hands-on guide!
+
+Comment **VERIFY** for the LLM reliability toolkit.
