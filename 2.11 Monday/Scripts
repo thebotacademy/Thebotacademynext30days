@@ -1,0 +1,64 @@
+**HOOK (0–5 sec)**
+
+ulagathula shocking ah enna nadakudhu theriyuma, idhu elame neenga kandipa therinjukama vidakudathu
+
+
+**UPDATE 1. — CLAUDE DUET ((5–14 sec)**
+
+First, Claude Duet. Idhu unga instructions wait pannitu mattum irukkaadhu. Unga work-la enna attention venum-nu identify panni, background-la tasks complete pannum. Important actions-ku unga approval kekkum.
+
+**UPDATE 2 — PHP SECURITY  (14–22sec)**
+
+next, internet security. PHP-la two critical vulnerabilities discover aachu. Password illama kooda vulnerable servers-ah attack panna mudiyum. Adhanala sila organisations websites-ah precaution-ah offline pannanga. Cybersecurity-la one small bug can become a massive problem!
+**UPDATE 3 — KLING 4.0 (22–29 sec)**
+
+Video creators-ku Kling 4.0. Up to 30 seconds video generation, reference images, keyframes, audio — storytelling-ku innum adhiga control.
+
+**UPDATE 4 — JOB MARKET (29–37 sec)**
+
+Barclays around 5,000 jobs cut panna plan announce pannirukku. AI and technology efficiency-um indha transformation-la part. Idhu oru reminder: unga skillset update pannradhu optional illa.
+
+**UPDATE 5 — FLINT REALITY CHECK (37–45 sec)**
+
+Hugging Face-la Flint-nu oru coding model release aagirukku. Aana ordinary laptop-la easy-ah run pannalaam-nu nenaikadhinga. Published setup itself high-end GPU and around 80 GB model files require pannudhu.
+
+**UPDATE 6 — AI CATFISHING (45–52 sec)**
+
+Innum shocking-ah, AI-generated farm girl-ah real person-nu nambi, oru man thousands of kilometres travel pannina story report aagirukku. AI content-ah verify pannama trust panna koodaadhu.
+
+**RE-HOOK + CLOSING (52–60 sec)**
+
+So, AI updates paathuttu scroll pannidatheenga. Cybersecurity, AI agents, video generation, coding, and verification — indha areas-la hands-on learning start pannunga. Links and learning resources venumna comment **UPDATE** pannunga!
+
+
+**HOOK (0–5 sec)**
+
+Unga interview-la Uber epdi nearest driver-ah find pannudhu-nu ketta, “GPS use pannuvanga” nu sonna… Thambi po pa veliya nu anupiruvanga, apdi anupama irukanum nna idha kelunga!
+
+**LOCK-IN (5–11 sec)**
+
+Imagine pannunga. Oru city-la thousands of drivers online-la irukkaanga. Neenga rain-la cab book panreenga. Just few seconds-la nearby driver-ku request pogudhu. Epdi?
+
+**THE WRONG APPROACH (11–20 sec)**
+
+Simple approach enna? Every driver location-ah database-la store panni, neenga request pannumbodhu all drivers-oda distance calculate pannradhu. Aana thousands of requests same time-la vandha, millions of unnecessary comparisons nadakkum. System slow aagum.
+
+**STEP 1 — LATEST LOCATION (20–27 sec)**
+
+First, driver location regular-ah update aagum. Old location history ellam matching-ku use panna thevai illa. Fast memory-la latest location maintain pannuvanga
+
+**STEP 2 — SPATIAL INDEXING (27–37 sec)**
+
+Next, city-ah small geographic cells-ah divide pannuvanga. Rider request pannumbodhu, whole city search pannaama nearby cells-la irukkura drivers mattum shortlist pannum. Idhu dhaan spatial indexing idea.
+
+**STEP 3 — MATCHING (37–44 sec)**
+
+Andha shortlist-la distance mattum illa — driver availability, vehicle type, ETA maadhiri factors-um consider panni, suitable driver-ku request offer pannum
+
+**THE WOW REVEAL — H3 (44–53 sec)**
+
+But here's the interesting part. Uber open-source pannina H3-nu oru geospatial system irukku. Idhu Earth-ah hexagonal cells-ah divide pannum. Square grid-la edge neighbours and corner neighbours different; hexagons make neighbourhood analysis more uniform.
+
+**CLOSING + CTA (53–60 sec)**
+
+Indha concept peru geospatial indexing. System design, backend, maps, delivery apps — neraya places-la useful. Comment **UBER** . H3 and a simple implementation resource share panren!
