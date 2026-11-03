@@ -1,0 +1,59 @@
+**HOOK (0–5 sec)**
+
+AI agent build panna Python theriyanum-nu ninaikkireengala? Adhu dhaan modha thappu
+**LOCK-IN (5–13 sec)**
+
+Actually, unga own AI agent build panna four different paths irukku.
+
+**PATH 1 — NO CODE (22–30 sec)**
+
+First, coding illama build pannalaam. Dify maadhiri platform-la documents upload panni, instructions set panni, tools connect pannina basic agent ready.
+
+**PATH 2 — WORKFLOW BUILDER (30–38 sec)**
+
+Second, n8n maadhiri workflow tools. Email vandha, AI analyse panni, ticket create pannanum-na, nodes connect panni workflow build pannalaam.
+
+**PATH 3 — FRAMEWORK (38–47 sec)**
+
+Third, LangGraph maadhiri framework. State, memory, conditions, tool calls ellathayum custom-ah control panna mudiyum.
+
+**PATH 4 — PURE CODE (47–55 sec)**
+
+Fourth, Python-la scratch-la build pannunga. Model connection, agent loop, tools, memory, permissions — ellame unga control-la!
+
+**CLOSING + CTA (55–60 sec)**
+
+Beginner-na no-code-la start pannunga. Advanced control venumna code-ku move aagunga. Comment **AGENT** pannunga — four paths-ukkum tools and setup guide share panren!
+
+
+
+
+vid 2
+
+**HOOK (0–6 sec)**
+
+New Year-ku girlfriend kooda four hours drive panni cabin-ku poreenga. Door open panna… already innoru couple inside! Avangalum unga maadhiriye booking confirmation kaamikiraanga. Idhu cabin-aa, waiting room-aa?
+
+**LOCK-IN (6–14 sec)**
+
+Idhu epdi possible? Imagine pannunga: neenga Reserve click panreenga. Adhe second-la innoru person-um same dates-ku click panraanga.
+
+**FIRST REVEAL (14–26 sec)**
+
+Bad design enna pannum? First availability check pannum. Available-na booking save pannum. Aana rendu requests same time-la check pannina, rendu perukkum available-nu result varalaam! Idhu dhaan **race condition**.
+
+**THE FIX (26–38 sec)**
+
+Solution: **Atomic transaction.** Booking dates-ah oru group-ah claim pannanum. Ella nights-um available-na mattum complete booking. Oru night kooda unavailable-na full transaction rollback. One wins; another gets booking unavailable!
+
+**SECOND WOW (38–48 sec)**
+
+Next, Pay button freeze aagudhu. Neenga twice click panniteenga. Double payment aaguma? Idhukkuthaan **idempotency key**. Same payment request retry aana, same key use panni duplicate charge-ah prevent pannalaam. Airbnb-oda Orpheus library indha concept-ku real engineering example.
+
+**THE TWIST (48–56 sec)**
+
+Aana owner Airbnb-la mattum illa, Vrbo-layum list pannirundha? Airbnb-oda connected calendars automatic-ah every three hours refresh aagum. So external booking update late aagura chance irukku!
+
+**CLOSING + CTA (56–65 sec)**
+
+Atomic booking, idempotency, calendar sync — moonume different problems. Database mattum smart-ah irundha podhadhu; entire booking system smart-ah irukkanum! Comment **AIRBNB** for the system design guide!
