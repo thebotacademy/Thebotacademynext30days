@@ -1,0 +1,50 @@
+### AI companies ela loss la irukunu sonna neenga nambuvingala
+
+Sam Altman 2025-la oru surprising statement sonnaaru.
+
+OpenAI-oda 200-dollar ChatGPT Pro plan-la, users expected-ah vida adhigama use pannadhunaala company loss aagudhu-nu sonnaaru.
+
+Idha oru gym membership maadhiri think pannunga.
+
+Oru person monthly fee pay pannitu occasional-ah use pannuvaaru. Innoru person daily morning-la irundhu night varaikkum gym-la iruppaaru.
+
+Same membership price. Aana usage cost same illa.
+
+AI-layum adhe dhaan.
+
+Neenga oru simple question kekkuradhukkum, long reasoning task, coding session, image generation maadhiri heavy request kudukkuradhukkum compute cost different.
+
+Behind the scenes GPU time, electricity, data-centre infrastructure ellathukkum company pay pannanum.
+
+Adhanaala dhaan AI companies usage limits, different subscription tiers and weekly caps introduce pannuraanga.
+
+And remember, subscription revenue mattum paathu AI company profit calculate panna mudiyadhu. Compute cost, infrastructure and customer usage ellame matter.
+
+So unga friend moonu AI subscriptions pay panraara? Indha video avarukku send pannunga.
+
+**Endha subscription cancel pannuveenga?**
+
+
+vid 2:
+
+### Indha AI unga lunch photo vida chinna size-la irundhu work aagumnu sonna nambuvingala?
+
+Idhu dhaan **Needle 2**.
+
+Just 45 million parameters. Model binary size around 14 MB. Full session-ku approximately 28 MB RAM.
+
+Most AI models-ku GPU servers, huge memory, internet connection nu nenachittu iruppom. But Needle 2 is designed for tiny devices.
+
+Idhula interesting enna theriyuma?
+
+Idhu just text reply panra chatbot illa. **Tool calling** support pannudhu.
+
+Adhaavadhu, correct interface and tools connect panninaa, structured commands generate panni device actions trigger panna use pannalaam.
+
+Cactus Compute-oda benchmarks-la Raspberry Pi 5-la 500 tokens per second decode speed report pannirukkaanga. Even small-device environments-kum idha target pannirukkaanga.
+
+Imagine pannunga: Internet illadha IoT device, local assistant, or small embedded system — cloud-ku data send pannama specific AI tasks execute panna mudiyum.
+
+Idhu full ChatGPT replacement illa. Aana edge AI and embedded AI engineers-ku interesting direction.
+
+**AI** nu comment pannunga. Model link share panren.
