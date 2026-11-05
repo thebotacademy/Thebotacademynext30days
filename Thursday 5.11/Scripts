@@ -1,0 +1,48 @@
+### LLM ellame sagapodhu...
+
+Wait, idhu just oru clickbait statement illa. AI research-la oru different approach vandhirukku.
+
+Usually ChatGPT maadhiri LLMs, text-ah one token at a time generate pannum. Oru sentence complete aaganumna, next token, next token-nu sequential-ah predict pannite irukkum.
+
+Aana Stanford research team introduce pannirukkura **Next-Concept Modeling**, short-ah NCM, indha process-ah different-ah approach pannudhu.
+
+Idhu text-ah multiple levels of concepts-ah divide pannum. First rough meaning, adhukku appuram finer details. And each level-la multiple representations-ah parallel-ah predict pannum.
+
+Adhaavadhu, ellathayum one-by-one wait panna vendiya avasiyam kammi aagudhu.
+
+Research paper-la certain benchmarks-la diffusion baselines-a vida 10 to 31 times faster inference report pannirukkaanga.
+
+Idhu LLMs-ku full stop illa. In fact, NCM-oda generation framework-la Transformer itself use aagudhu.
+
+But future-la AI engineers just bigger models build panna mattum illa; faster tokenizers, inference systems, GPU optimization-layum work panna vendiyirukkum.
+
+So AI field-la next opportunity model size-la mattum illa — **model eppadi think pannudhu, generate pannudhu** ngiradhulayum irukku.
+
+Indha research paper venumna **MODEL** nu comment pannunga.
+
+
+vid 2:
+
+### Oru fake job interview... billions worth crypto theft-ku starting point aagiduchuna nambuvingala?
+
+October 29, 2026. Binance-la approximately **6.34 billion dollars** worth digital assets impact aagura security incident nadandhudhu.
+
+FBI idhuku North Korea-oda TraderTraitor group responsible-nu attribute pannirukku.
+
+Aana attack eppadi start aachu theriyuma?
+
+Binance-oda own investigation padi, fake recruitment process-la engineer-ah approach panni, malicious code repository download panna vachirukkaanga.
+
+Adhu company devices and developer access-ah compromise panna use aayirukku.
+
+Innum shocking detail — Binance report padi, attackers compromised computer moolama internal AI tool-um misuse panni, other engineers-oda systems access panna try pannirukkaanga.
+
+So AI inga thaniya billions steal pannala. **Already compromised access-ah extend panna attack chain-la oru part-ah use pannirukkaanga.**
+
+AI cyberattacks-la phishing messages realistic-ah create panna, malicious code develop panna, stolen information analyse panna use aagalaam. But indha exact attack-la AI enna pannuchu-ngira full technical details public-ah illa.
+
+Prevention-ku: interview assignment code-ah work laptop-la direct-ah run pannadhinga. Unknown repos sandbox-la test pannunga. Least-privilege access, MFA, endpoint monitoring, and transaction approvals mandatory.
+
+AI powerful. Aana security illama AI tools connect pannradhu dangerous.
+
+**CYBER** nu comment pannunga. Incident breakdown resource share panren.
