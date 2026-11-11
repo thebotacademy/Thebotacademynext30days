@@ -1,0 +1,69 @@
+### HOOK — 0–5 sec
+
+Ela companies layum hire panra indha job ku neenga inum prepare agalana neenga outdate dhan aavinga .vera yaru namma AI engineer , adhuku enna pannanum nu stage wise na solra kelunga
+
+### THE ROADMAP — 5–43 sec
+
+** 1st:** Python and Git.
+
+** 2nd:** Mathematics and Statistics for AI.
+
+* 3rd:** Exploratory Data Analysis and Feature Engineering.
+
+* 4:** Machine Learning and Neural Networks.
+
+ 5:** Deep Learning, Computer Vision and NLP.
+
+** 6:** Transformers and Transfer Learning.
+
+** 7:** Generative AI, LLMs and Fine-tuning.
+
+** 8:** MLOps and LLMOps.
+
+**9:** End-to-end AI Projects and Application Deployment.
+
+**10:** Vector Embeddings and Vector Databases.
+
+* 11:** RAG Architecture and Advanced Fine-tuning.
+
+* 12:** Agentic AI and Autonomous Multimodal Agents.
+
+### WHAT'S INSIDE THE RESOURCE — 43–54 sec
+
+Idhu just topic list illa! Ovvoru month-um detailed subtopics, required skills, hands-on projects, official learning links, tools and practical implementation steps ellame oru document-la organize pannirukka.
+
+### CLOSING + CTA — 54–60 sec
+
+Ungaloda AI Engineer learning journey-ku indha complete roadmap venumna, a follow pannitu ROADMAP nu comment pannunga!**
+
+
+vid 2:
+### HOOK — 0–8 sec
+
+Avanga sonnaga ivanga sonnaga nu basic chatbot projects panradha niruthitu, indha 5 LLM projects pannuga! Idha resume-la pottinga-na, biriyani-oda smell sundi izhukura maari AI Engineer role-ku ungala izhuthupanga!
+
+### PROJECT 1 — 8–16 sec
+
+**Hybrid RAG with Reranking:** Just PDF-la answer search panradhu illa! Semantic search, BM25, reranking combine panni accurate-ah relevant information retrieve panra system build pannunga. Qdrant use pannunga!
+
+### PROJECT 2 — 16–24 sec
+
+**LLM Gateway:** Multiple AI models-ai single gateway-la connect panni, caching, automatic fallback, rate limits and cost tracking implement pannunga. LiteLLM and Redis use pannunga!
+
+### PROJECT 3 — 24–32 sec
+
+**AI Agent with Guardrails:** Tools use panni tasks complete panra agent build pannunga. Aana sensitive action-ku human approval, permission checks ellam add pannunga. LangGraph use pannunga!
+
+### PROJECT 4 — 32–40 sec
+
+**Text-to-SQL Analyst:** Normal English-la business question kekkumbodhu, database query generate panni, safe-ah execute seithu results and charts return panra application build pannunga!
+
+### PROJECT 5 — 40–47 sec
+
+**LLM Evaluation Harness:** Ungaloda AI hallucinate aagudha, accurate-ah answer pannudha, safe-ah work aagudha-nu automatically test panra framework build pannunga!
+
+### RESOURCE + CTA — 47–60 sec
+
+Indha five projects-oda complete architecture, tech stack, step-by-step implementation, testing, GitHub structure and resume bullet points ellame oru DOCX guide-la irukku!
+
+Bot Academy follow pannitu **LLM5** nu comment pannunga. Guide share panra!
