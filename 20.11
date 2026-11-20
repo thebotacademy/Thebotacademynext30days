@@ -1,0 +1,56 @@
+Oru doubt! Neenga eppovavadhu yosichirukkingala? Oru GB data-va ZIP file-ah compress pannumbodhu, adhu four hundred MB-ah maarudhu... appo meedhi six hundred MB enga pogudhu?
+
+Data delete aagudha? Illa vera edhavadhu magic nadakkudha? nu
+
+Actually, computer data-va smarter-ah pack pannudhu!
+
+Example-ku BANANA eduthukonga. Indha word-la A moonu vaati, N rendu vaati, B oru vaati varudhu.
+
+Every letter-kum eight bits spend panradhu konjam waste illaya?
+
+Adhukku dhaan Huffman Coding! Frequent-ah varra letters-ku short codes, rare-ah varra letters-ku long codes assign pannum.
+
+Ippo BANANA encode panna forty-eight bits-ku badhila nine bits mattum podhum!
+
+Aana ZIP-la innoru trick irukku — LZ77!
+
+Repeated words and patterns-ah kandupidichu, already irukkura data-va thirumba store pannaama, previous location-ah reference pannum.
+
+Appuram Huffman Coding-oda help-oda DEFLATE compression work aagum!
+
+Important-ah, idhu Lossless Compression. Unzip pannumbodhu original data exact-ah thirumba kidaikkum!
+
+Aana ella one GB files-um four hundred MB aagumnu guarantee illa. Already compressed videos-ku size romba reduce aagaadhu!
+
+So, data missing aagala... computer smarter-ah pack pannirukku!
+
+Indha maadhiri computer science secrets-ku The Bot Academy follow pannunga!
+
+
+
+
+
+eighteen lpa thara genai job ku verum Python-la print("Hello World") run panna matu podhadhu ,na sollapora indha stages elame learn pannanum
+First, Python basics strong-ah irukkanum. Appuram LLM namma text-ah epdi tokens-ah break panni process pannudhu-nu purinjikanum.
+
+Next, Python-la irundhu AI model-ku API request anuppi, structured JSON response handle panna kathukanum.
+
+Adhukku appuram tools connect pannunga. Appo AI summa advice kudukkaama, unga application-la actual actions-um execute pannum!
+
+Next, RAG build pannanum. Unga own documents-la irundhu relevant information retrieve panni answer generate panna AI-kku kathukodunga.
+
+Adhukku mela AI Agents build pannunga. Tools select panni, tasks plan panni execute panra agents create pannunga.
+
+Multiple agents-ah team-ah work panna vachaa, adhu Multi-Agent Workflow!
+
+MCP use panni external applications and tools-oda connect pannunga.
+
+Aana AI generate panra answer correct-ah? Evals use panni test pannunga. Guardrails add panni risky actions-ah control pannunga.
+
+Last-ah application deploy panni, API costs, latency and performance monitor pannunga.
+
+Ivlo stages-um learn pannittu, oru real-world project build panni GitHub-la publish panni, live-ah deploy pannunga!
+
+Certificate collect pannradhu mattum resume-ah fill pannum. Real projects dhaan unga skills-ah prove pannum!
+
+Indha complete GenAI Engineer roadmap-oda learning resources venumna, **ROADMAP** nu comment pannunga!
