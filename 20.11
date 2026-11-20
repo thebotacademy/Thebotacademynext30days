@@ -12,7 +12,7 @@ Adhukku dhaan Huffman Coding! Frequent-ah varra letters-ku short codes, rare-ah 
 
 Ippo BANANA encode panna forty-eight bits-ku badhila nine bits mattum podhum!
 
-Aana ZIP-la innoru trick irukku — LZ77!
+Aana ZIP-la innoru trick irukku — LZ seventy seven!
 
 Repeated words and patterns-ah kandupidichu, already irukkura data-va thirumba store pannaama, previous location-ah reference pannum.
 
@@ -30,14 +30,14 @@ Indha maadhiri computer science secrets-ku The Bot Academy follow pannunga!
 
 
 
-eighteen lpa thara genai job ku verum Python-la print("Hello World") run panna matu podhadhu ,na sollapora indha stages elame learn pannanum
+eighteen LPA thara genai job ku verum Python-la print("Hello World") run panna matu podhadhu ,na sollapora indha stages elame learn pannanum
 First, Python basics strong-ah irukkanum. Appuram LLM namma text-ah epdi tokens-ah break panni process pannudhu-nu purinjikanum.
 
-Next, Python-la irundhu AI model-ku API request anuppi, structured JSON response handle panna kathukanum.
+Next, Python-la irundhu AI model-ku API request anuppi, structured json response handle panna kathukanum.
 
 Adhukku appuram tools connect pannunga. Appo AI summa advice kudukkaama, unga application-la actual actions-um execute pannum!
 
-Next, RAG build pannanum. Unga own documents-la irundhu relevant information retrieve panni answer generate panna AI-kku kathukodunga.
+Next, rag build pannanum. Unga own documents-la irundhu relevant information retrieve panni answer generate panna AI-kku kathukodunga.
 
 Adhukku mela AI Agents build pannunga. Tools select panni, tasks plan panni execute panra agents create pannunga.
 
