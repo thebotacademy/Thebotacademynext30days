@@ -1,0 +1,42 @@
+Edhu theriyama irukaringalo ilayo, idhu theriyama irukkave koodadhu! Yenna, indha oru language-la dhaan ulagame engayo poitu irukku. Yaaru nu nenakaringa? Namma Python dhan!
+
+Ippo AI irukku, ChatGPT code ezhudhudhu-nu coding concepts skip pannadheenga. Interview-la code explain panna, bugs fix panna, unique projects build panna, indha concepts dhaan help pannum.
+
+First, basics-la variables, conditions, loops, functions and strings strong-ah irukkanum.
+
+Next, lists, dictionaries, sets — especially frequency counting, sorting, two-pointer logic maadhiri problem-solving patterns interview-ku romba important.
+
+OOP-la classes, objects, inheritance, polymorphism and composition purinjukkanum. Adhu dhaan large projects-ah structured-ah build panna help pannum.
+
+Advanced Python-la generators, decorators, exception handling, async and testing basics learn pannunga.
+
+Apram NumPy, Pandas, FastAPI, Pydantic, Scikit-learn, PyTorch maadhiri libraries-ah project-ku use panna kathukonga.
+
+Python-ah just syntax-ah padikadhinga. Problem solve panna, projects build panna use pannunga! 
+Inum enna concepts padikanum ,interview ku epdi padikalam nu detail ah oru document ah vachiruka , venumna follow pannitu "Python " nu comment pannuga
+
+
+
+ Ungaluku Rag theriyum, Rag + Jev theriyuma? Ungaluku AI agents theriyum, production ready AI agents theriyuma? Ungaluku LLM theriyum CDN theriyuma? Na solra kelunga
+
+RAG-la namma question kudutha, vector database illa BM twenty five maadhiri retrieval methods use panni similar documents-ah retrieve pannum. Aana similar-ah irukkuradhu, answer irukkuradhu-nu artham illa!
+
+Example-ku, parental leave policy evlo days-nu ketta, parental leave mention panra document retrieve aagalam. Aana actual answer adhulaye irukka vendiyadhillai!
+
+Indha problem-ah address panna, retrieval-kku appuram JEV use pannalaam!
+
+JEV-na TypeSafe AI-oda oru decision model! Idhu normal LLM maadhiri lengthy text generate panna focus pannadhu illa. Instead, structured decisions edukka designed pannirukku!
+
+Oru passage relevant-ah irukka, answer-ku evidence irukka, illa different passages-la edhu best-ah answer panudhunu evaluate panna use pannalaam!
+
+So, namma RAG pipeline-la retrieve pannina passages-ah JEV evaluate panni, application code-la decide panni, useful evidence-ah mattum answer generate panna LLM-ku anuppalaam!
+
+Traditional flow Retrieve, Generate!
+
+Improved flow Retrieve, JEV Evaluate, Select, Generate!
+
+RAG information-ah retrieve pannum. JEV retrieved information-la edhu useful evidence-nu decision edukka help pannum!
+
+Idha pathi complete-ah explain panni oru detailed document ready panniruken. Adhu venumna follow pannitu JEV-nu comment pannunga!
+
+Remaining concepts-um next videos-la explain panren. Follow pannunga!
